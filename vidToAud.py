@@ -104,7 +104,7 @@ async def theProcessing(name,text):
 #%% The Search
 
 searchResult ={}
-txt = asyncio.ensure_future(vidToAud('pythonIntro.mp4','pythonIntro'))
+txt = vidToAud('pythonIntro.mp4','pythonIntro')
 # videosContent = asyncio.ensure_future(theProcessing('Ya',txt))
 
 # for content in videosContent:

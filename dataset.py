@@ -93,6 +93,43 @@ top_trending = pd.Series(dataDict).sort_values(ascending=False)[:5]
 
 #%% Seek adjustment
 
+youngNarrativeRate = [4.3,0.6]
+oldNarrativeRate = [3.6,0.5]
+
+youngReadingRate = [5.2,0.4]
+oldReadingRate = [4.2,0.5]
+
+speakingRate = pd.DataFrame()
+
+# Youngs belong to [21,32] , Old belongs to [66,90]
+youngs = np.random.randint(21,32,500)
+olds = np.random.randint(66,90,500)
+
+youngNarrativeSyllables,oldNarrativeSyllables = [],[]
+for x in range(0,500):
+    youngNarrativeSyllables.append(np.random.uniform(3.2,5.3))
+    oldNarrativeSyllables.append(np.random.uniform(2.7,4.6))
+    
+youngNarrativeSyllables = np.array(youngNarrativeSyllables)
+oldNarrativeSyllables = np.array(oldNarrativeSyllables)
+
+youngNarrativeStd = youngNarrativeSyllables.std()
+youngNarrativeMean = youngNarrativeSyllables.mean()
+oldNarrativeStd = oldNarrativeSyllables.std()
+oldNarrativeMean = oldNarrativeSyllables.mean()
+
+
+for i in range(500):
+    youngNarrativeSyllables[i]*=(youngNarrativeRate[1]/youngNarrativeStd)
+    youngNarrativeSyllables[i]+=(youngNarrativeRate[0]-youngNarrativeMean)
+    
+    oldNarrativeSyllables[i]*=(oldNarrativeRate[1]/oldNarrativeStd)
+    oldNarrativeSyllables[i]+=(oldNarrativeRate[0]-oldNarrativeMean)
+    
+
+    
+
+
 
 
 
