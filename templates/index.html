@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Ram-Ram</title>
+        <title>Blends</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="../static/assets/img/name2.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -53,7 +53,7 @@
         <div id="content" style="display:none">
         <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="../static/assets/img/name.png" height=25% width=30%></a>
+                <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="../static/assets/img/nam.png" height=25% width=30%></a>
                 <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -281,23 +281,23 @@
         <!-- Hobbies Section-->
         <section class="page-section" id="hobbies">
             <div id="videoMain">
-                <video id="bideo" autoplay muted loop>
+                <video id="bideo" autoplay muted loop height=500 width=100%>
                     <source src="../static/assets/videos/hot3.mp4" type="video/mp4">
                 </video>
                 <div id="heading">
-                    <h1 style="color:white;">Featured</h1>
+                    <h1 style="color:white;">&nbsp&nbspFeatured</h1>
                 </div>
                 <div class="hobbies">
                     <div class="ribbon-wrap ribbon-opacity ribbon-hover">
-                        <div class="ribbon"><p class="b-margin">Learning</p></div>
+                        <div class="ribbon"><p id="topList1" class="b-margin"></p></div>
                     </div>
 
                     <div class="ribbon-wrap-2 ribbon-opacity ribbon-hover">
-                        <div class="ribbon"><p class="b-margin">Developing</p></div>
+                        <div class="ribbon"><p id="topList2" class="b-margin"></p></div>
                     </div>
 
                     <div class="ribbon-wrap-3 ribbon-opacity ribbon-hover">
-                        <div class="ribbon"><p class="b-margin">Collaborating</p></div>
+                        <div class="ribbon"><p id="topList3" class="b-margin"></p></div>
                     </div>
                 </div>
             </div>
@@ -318,7 +318,7 @@
                         <h4 class="text-uppercase mb-4">Missing Someting</h4>
                         <p class="lead mb-0">
                             To grasp more out of this,
-                            <div id="custom-modal" class="lead mb-0" data-toggle="modal" data-target="#portfolioModal22"><a href="#custom-modal">click here.</a></div>
+                            <div id="custom-modal" class="lead mb-0"><a href="#about">click here.</a></div>
                         </p>
                     </div>
                 </div>
@@ -579,6 +579,9 @@
                                         import {myFunc} from "./static/f1.mjs";
                                         var data=myFunc({{data|tojson}});
                                         document.getElementById("seekPos").innerHTML = "The seek positions would be " + data.seekpos1 + ".";
+                                        document.getElementById("topList1").innerHTML = data.topList[0];
+                                        document.getElementById("topList2").innerHTML = data.topList[1];
+                                        document.getElementById("topList3").innerHTML = data.topList[2];
                                     </script></p>
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>

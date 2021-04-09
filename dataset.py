@@ -89,8 +89,8 @@ df['Field'] = np.array(fieldColSuper)
 df.to_csv('courseDetails.csv')
 #%% Top Trending List
 
-top_trending = pd.Series(dataDict).sort_values(ascending=False)[:5]
-
+def retTopList():
+    return pd.Series(dataDict).sort_values(ascending=False)[:5].keys().tolist()
 
 #%%
 
