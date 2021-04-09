@@ -4,8 +4,9 @@ import numpy as np
 import random as r
 import matplotlib.pyplot as plt
 from faker import Faker
-from datetime import datetime 
-
+from datetime import datetime
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
 
 
 
@@ -93,6 +94,8 @@ top_trending = pd.Series(dataDict).sort_values(ascending=False)[:5]
 
 #%% Seek adjustment
 
+speaking = pd.DataFrame()
+
 youngNarrativeRate = [4.3,0.6]
 oldNarrativeRate = [3.6,0.5]
 
@@ -119,6 +122,8 @@ oldNarrativeStd = oldNarrativeSyllables.std()
 oldNarrativeMean = oldNarrativeSyllables.mean()
 
 
+# Reading Aloud
+
 for i in range(500):
     youngNarrativeSyllables[i]*=(youngNarrativeRate[1]/youngNarrativeStd)
     youngNarrativeSyllables[i]+=(youngNarrativeRate[0]-youngNarrativeMean)
@@ -127,8 +132,42 @@ for i in range(500):
     oldNarrativeSyllables[i]+=(oldNarrativeRate[0]-oldNarrativeMean)
     
 
+youngReadingSyllables,oldReadingSyllables = [],[]
+for x in range(0,500):
+    youngReadingSyllables.append(np.random.uniform(4.4,5.8))
+    oldReadingSyllables.append(np.random.uniform(3.0,5.0))
     
+youngReadingSyllables = np.array(youngReadingSyllables)
+oldReadingSyllables = np.array(oldReadingSyllables)
 
+youngReadingStd = youngReadingSyllables.std()
+youngReadingMean = youngReadingSyllables.mean()
+oldReadingStd = oldReadingSyllables.std()
+oldReadingMean = oldReadingSyllables.mean()
+
+
+for i in range(500):
+    youngReadingSyllables[i]*=(youngReadingRate[1]/youngReadingStd)
+    youngReadingSyllables[i]+=(youngReadingRate[0]-youngReadingMean)
+    
+    oldReadingSyllables[i]*=(oldReadingRate[1]/oldReadingStd)
+    oldReadingSyllables[i]+=(oldReadingRate[0]-oldReadingMean)
+    
+speaking['Age'] = np.concatenate((youngs,olds))
+speaking['Narrative'] = np.concatenate((youngNarrativeSyllables,oldNarrativeSyllables))
+speaking['Reading'] = np.concatenate((youngReadingSyllables,oldReadingSyllables))
+
+x_train,x_test,y_train,y_test = train_test_split(speaking['Age'].values,speaking['Narrative'].values,test_size=0.05)
+
+regressorRead = LinearRegression()
+regressorRead.fit(x_train.reshape(-1,1),y_train.reshape(-1,1))
+
+
+x_train,x_test,y_train,y_test = train_test_split(speaking['Age'].values,speaking['Narrative'].values,test_size=0.05)
+regressorNarrate = LinearRegression()
+regressorNarrate.fit(x_train.reshape(-1,1),y_train.reshape(-1,1))
+
+print("The prediction is",regressorRead.predict(np.array([44]).reshape(-1,1))[0][0],"and",regressorNarrate.predict(np.array([44]).reshape(-1,1))[0][0])
 
 
 
