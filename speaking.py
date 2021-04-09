@@ -80,7 +80,7 @@ speaking['Age'] = np.concatenate((youngs,olds))
 speaking['Narrative'] = np.concatenate((youngNarrativeSyllables,oldNarrativeSyllables))
 speaking['Reading'] = np.concatenate((youngReadingSyllables,oldReadingSyllables))
 
-x_train,x_test,y_train,y_test = train_test_split(speaking['Age'].values,speaking['Narrative'].values,test_size=0.05)
+x_train,x_test,y_train,y_test = train_test_split(speaking['Age'].values,speaking['Reading'].values,test_size=0.05)
 
 regressorRead = LinearRegression()
 regressorRead.fit(x_train.reshape(-1,1),y_train.reshape(-1,1))
@@ -136,6 +136,20 @@ for i in range(500):
 speaking['PauseFrequencyNarrative'] = np.concatenate((youngNarrativePauses,oldNarrativePauses))
 speaking['PauseFrequencyReading'] = np.concatenate((youngReadingPauses,oldReadingPauses))
 
+
+x_train,x_test,y_train,y_test = train_test_split(speaking['Age'].values,speaking['PauseFrequencyNarrative'].values,test_size=0.05)
+
+regressorPauseFreqNarrative = LinearRegression()
+regressorPauseFreqNarrative.fit(x_train.reshape(-1,1),y_train.reshape(-1,1))
+
+x_train,x_test,y_train,y_test = train_test_split(speaking['Age'].values,speaking['PauseFrequencyReading'].values,test_size=0.05)
+
+regressorPauseFreqReading = LinearRegression()
+regressorPauseFreqReading.fit(x_train.reshape(-1,1),y_train.reshape(-1,1))
+
+
+
+
 for i in range(500):
     youngReadingPauseDurations.append(np.random.uniform(0.341,0.888))
     oldReadingPauseDurations.append(np.random.uniform(0.384,0.773))
@@ -176,16 +190,25 @@ speaking['PauseDurationNarrative'] = np.concatenate((youngNarrativePauseDuration
 speaking['PauseDurationReading'] = np.concatenate((youngReadingPauseDurations,oldReadingPauseDurations))
 
 
+x_train,x_test,y_train,y_test = train_test_split(speaking['Age'].values,speaking['PauseDurationNarrative'].values,test_size=0.05)
 
+regressorPauseDurNarrative = LinearRegression()
+regressorPauseDurNarrative.fit(x_train.reshape(-1,1),y_train.reshape(-1,1))
+
+x_train,x_test,y_train,y_test = train_test_split(speaking['Age'].values,speaking['PauseDurationReading'].values,test_size=0.05)
+
+regressorPauseDurReading = LinearRegression()
+regressorPauseDurReading.fit(x_train.reshape(-1,1),y_train.reshape(-1,1))
     
     
-
-
-
-
-
-
-
 
 
 print("The prediction is",regressorRead.predict(np.array([44]).reshape(-1,1))[0][0],"and",regressorNarrate.predict(np.array([44]).reshape(-1,1))[0][0])
+
+
+
+
+
+
+""" The credit for this research comes from https://asa.scitation.org/doi/10.1121/1.4885482 """
+
