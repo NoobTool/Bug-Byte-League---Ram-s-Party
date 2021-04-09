@@ -212,11 +212,11 @@ def predictions(totalTime=10,eg=[],conc=[]):
     pauseNoNarrative = regressorPauseFreqReading.predict(np.array([totalTime]).reshape(-1,1))[0][0]
     pauseNoReading = regressorPauseFreqReading.predict(np.array([totalTime]).reshape(-1,1))[0][0]
     if totalTime<15:
-        introPoint = (((round(readingSpeed)-1)*np.random.randint(20,30))/60) + (totalTime/100)*totalTime        
+        introPoint = ((((1/(round(readingSpeed))))*np.random.randint(20,30))/60) + ((totalTime/100)*totalTime)        
     else:
-        introPoint = ((round(readingSpeed)-1)*60)/np.random.randint(20,30) + (15/100)*totalTime
+        introPoint = ((round(readingSpeed)))*(np.random.randint(20,30)/60) + (15/100)*totalTime
         
-    introPoint+= (pauseDurReading*(pauseNoReading/100))*30 + (pauseDurNarrative)*(pauseNoNarrative/100)*(introPoint/narratingSpeed)
+    introPoint+= (pauseDurReading*(pauseNoReading/100))/2 + (pauseDurNarrative)*(pauseNoNarrative/100)*(introPoint/narratingSpeed)
 
     checkPoints.append(introPoint)
     checkPoints = np.array(checkPoints)
@@ -224,14 +224,16 @@ def predictions(totalTime=10,eg=[],conc=[]):
     if len(eg)>0:
         egTime=[]
         for x in eg:
-            egTime.append((pauseNoNarrative/100)*x*pauseDurNarrative + ((1/narratingSpeed)*x))
+            egTime.append((pauseNoNarrative/100)*x*(pauseDurNarrative) + ((1/narratingSpeed)*x)/60)
         egTime = np.array(egTime)
         checkPoints = np.concatenate((checkPoints,egTime))
             
     if len(conc)>0:
-        concTime = introPoint+(pauseDurNarrative/100)*conc[-1] + ((1/narratingSpeed)*conc[-1])
-        checkPoints = np.concatenate((checkPoints,np.array([concTime])))
+        concTime = introPoint+(pauseDurNarrative/100)*conc[-1] + ((1/narratingSpeed)*conc[-1])        
+    else:
+        concTime = totalTime - ((((1/(round(readingSpeed))))*np.random.randint(20,30))/60) - (0.05)*totalTime
         
+    checkPoints = np.concatenate((checkPoints,np.array([concTime])))
     return checkPoints         
             
             

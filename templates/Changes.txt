@@ -1,0 +1,2 @@
+Steel => SS Coil,circle 
+Pulses and Cereals = Pulses

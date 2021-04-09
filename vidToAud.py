@@ -127,10 +127,7 @@ def timeStampCheck(text):
 #%% The Search
 
 searchResult ={}
-txt = vidToAud('pythonIntro.mp4','pythonIntro')
-videosContent,noPunc = theProcessing('Ya',txt)
-exampleIndices,concludeIndices = timeStampCheck(noPunc)
-print(s.predictions(5,exampleIndices,concludeIndices))
+
 
 # for content in videosContent:
 #     print(process.extract("layout",content["keywords"],limit=1,scorer=fuzz.token_set_ratio),"\n\n")
