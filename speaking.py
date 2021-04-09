@@ -203,33 +203,34 @@ regressorPauseDurReading.fit(x_train.reshape(-1,1),y_train.reshape(-1,1))
     
 #%
 
-def predictions(n,eg=[],conc=[],totalTime=10):
-    checkPoints = np.array()
-    readingSpeed = regressorRead.predict(np.array([n]).reshape(-1,1))[0][0]
-    narratingSpeed = regressorNarrate.predict(np.array([n]).reshape(-1,1))[0][0]
-    pauseDurNarrative = regressorPauseDurNarrative.predict(np.array([n]).reshape(-1,1))[0][0]   
-    pauseDurReading = regressorPauseDurReading.predict(np.array([n]).reshape(-1,1))[0][0]
-    pauseNoNarrative = regressorPauseFreqReading.predict(np.array([n]).reshape(-1,1))[0][0]
-    pauseNoReading = regressorPauseFreqReading.predict(np.array([n]).reshape(-1,1))[0][0]
+def predictions(totalTime=10,eg=[],conc=[]):
+    checkPoints = []
+    readingSpeed = regressorRead.predict(np.array([totalTime]).reshape(-1,1))[0][0]
+    narratingSpeed = regressorNarrate.predict(np.array([totalTime]).reshape(-1,1))[0][0]
+    pauseDurNarrative = regressorPauseDurNarrative.predict(np.array([totalTime]).reshape(-1,1))[0][0]   
+    pauseDurReading = regressorPauseDurReading.predict(np.array([totalTime]).reshape(-1,1))[0][0]
+    pauseNoNarrative = regressorPauseFreqReading.predict(np.array([totalTime]).reshape(-1,1))[0][0]
+    pauseNoReading = regressorPauseFreqReading.predict(np.array([totalTime]).reshape(-1,1))[0][0]
     if totalTime<15:
-        introPoint = ((round(readingSpeed)-1)*60)/np.random.randint(20,30) + (totalTime/100)*totalTime        
+        introPoint = (((round(readingSpeed)-1)*np.random.randint(20,30))/60) + (totalTime/100)*totalTime        
     else:
         introPoint = ((round(readingSpeed)-1)*60)/np.random.randint(20,30) + (15/100)*totalTime
         
     introPoint+= (pauseDurReading*(pauseNoReading/100))*30 + (pauseDurNarrative)*(pauseNoNarrative/100)*(introPoint/narratingSpeed)
 
     checkPoints.append(introPoint)
+    checkPoints = np.array(checkPoints)
         
     if len(eg)>0:
         egTime=[]
         for x in eg:
-            egTime.append(introPoint+(pauseDurNarrative/100)*x + ((1/narratingSpeed)*x))
+            egTime.append((pauseNoNarrative/100)*x*pauseDurNarrative + ((1/narratingSpeed)*x))
         egTime = np.array(egTime)
-        checkPoints = np.concatenate(checkPoints,egTime)
+        checkPoints = np.concatenate((checkPoints,egTime))
             
     if len(conc)>0:
         concTime = introPoint+(pauseDurNarrative/100)*conc[-1] + ((1/narratingSpeed)*conc[-1])
-        checkPoints = np.concatenate(checkPoints,np.array([concTime]))
+        checkPoints = np.concatenate((checkPoints,np.array([concTime])))
         
     return checkPoints         
             
