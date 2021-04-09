@@ -92,6 +92,21 @@ df.to_csv('courseDetails.csv')
 top_trending = pd.Series(dataDict).sort_values(ascending=False)[:5]
 
 
+#%%
+
+s_matrix = np.zeros((1000,14))
+
+for i in range(0,1000):
+    for j in range(0,14):
+        if(np.random.randint(0,6)>2):
+             s_matrix[i][j]=np.random.randint(5,30)      
+
+df2 = pd.DataFrame(s_matrix,columns=courseList)
+df2['ID'] = df['ID']
+
+df2.to_csv('s_matrix.csv')
+
+
 
 #%% Workshop dataframe
 

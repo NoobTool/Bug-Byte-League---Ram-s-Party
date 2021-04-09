@@ -1,1002 +1,1002 @@
 ,ID,Courses,TimeSpent,Field
-0,1000,"['Trigonometry', 'Machine Learning']",[11 25],"['mathsList', 'programList']"
-1,1001,"['Ruby on Rails', 'pHp']",[20 15],"['englishList', 'backEndList']"
-2,1002,"['Javascript', 'React.js', 'jQuery']",[17 23 12],"['frontEndList', 'mathsList']"
-3,1003,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[11 18 26 24],['frontEndList']
-4,1004,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Literature', 'Grammar']",[24 10 21 26 17 26],"['englishList', 'backEndList']"
-5,1005,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[29 26 12 29],['backEndList']
-6,1006,['Trigonometry'],[28],['mathsList']
-7,1007,"['Python: Introduction', 'Data Science', 'Machine Learning']",[27 14 12],['programList']
-8,1008,"['Node.js', 'Django', 'Ruby on Rails']",[27 29 15],['backEndList']
-9,1009,"['Data Science', 'Machine Learning']",[11 18],['programList']
-10,1010,['Django'],[15],['backEndList']
-11,1011,[],[],['frontEndList']
-12,1012,"['Human Rights', 'Node.js', 'Django', 'Ruby on Rails']",[22 25 19 13],"['politicalList', 'backEndList']"
-13,1013,"['Node.js', 'Django']",[27 26],['backEndList']
-14,1014,"['HTML,CSS', 'Javascript', 'React.js']",[28 14 17],['frontEndList']
-15,1015,[],[],"['politicalList', 'programList']"
-16,1016,"['Django', 'Ruby on Rails', 'pHp']",[15 25 19],"['politicalList', 'backEndList']"
-17,1017,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Human Rights']",[26 11 24 21 27],"['politicalList', 'backEndList']"
-18,1018,"['Grammar', 'Vocabulary', 'Speech']",[25 15 26],"['englishList', 'frontEndList']"
-19,1019,[],[],['backEndList']
-20,1020,['Public Speaking'],[16],['politicalList']
-21,1021,"['Javascript', 'React.js', 'jQuery']",[10 23 23],['frontEndList']
-22,1022,"['Vocabulary', 'Speech', 'English Expressions', 'Machine Learning']",[27 13 27 27],"['englishList', 'programList']"
-23,1023,"['Vocabulary', 'HTML,CSS', 'Javascript']",[25 29 21],"['englishList', 'frontEndList']"
-24,1024,['Speech'],[25],"['englishList', 'politicalList']"
-25,1025,['jQuery'],[12],['frontEndList']
-26,1026,"['Machine Learning', 'Data Structures']",[16 27],['programList']
-27,1027,['Vocabulary'],[18],"['englishList', 'politicalList']"
-28,1028,"['Vocabulary', 'Speech', 'English Expressions']",[10 12 24],['englishList']
-29,1029,"['Javascript', 'React.js']",[15 13],['frontEndList']
-30,1030,"['Trigonometry', 'Inverse Trignonometry']",[25 17],"['mathsList', 'programList']"
-31,1031,"['Ruby on Rails', 'Django']",[28 15],['backEndList']
-32,1032,"['Ruby on Rails', 'pHp']",[18 10],"['backEndList', 'mathsList']"
-33,1033,"['Node.js', 'pHp']",[24 26],['backEndList']
-34,1034,"['React.js', 'jQuery', 'Ruby on Rails']",[21 12 21],"['frontEndList', 'backEndList']"
-35,1035,['Grammar'],[28],['englishList']
-36,1036,"['Node.js', 'Django']",[21 20],"['politicalList', 'backEndList']"
-37,1037,"['Speech', 'English Expressions', 'English Expressions']",[29 11 23],['englishList']
-38,1038,"['Public Speaking', 'Political Science', 'Human Rights']",[11 22 22],"['politicalList', 'backEndList']"
-39,1039,"['Javascript', 'React.js', 'Inverse Trignonometry']",[12 10 22],"['frontEndList', 'mathsList']"
-40,1040,['Vocabulary'],[20],['englishList']
-41,1041,"['Vocabulary', 'Speech', 'English Expressions']",[20 28 14],"['englishList', 'programList']"
-42,1042,"['Public Speaking', 'Political Science']",[19 10],['politicalList']
-43,1043,"['Trigonometry', 'Inverse Trignonometry', 'Vocabulary']",[18 15 14],"['englishList', 'mathsList']"
-44,1044,['Node.js'],[22],['backEndList']
-45,1045,"['Political Science', 'Human Rights']",[27 21],['politicalList']
-46,1046,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures', 'Javascript']",[24 10 18 28 10],"['frontEndList', 'programList']"
-47,1047,"['Human Rights', 'Vocabulary', 'Speech', 'English Expressions']",[20 12 25 18],"['englishList', 'politicalList']"
-48,1048,"['Grammar', 'HTML,CSS']",[27 18],"['englishList', 'frontEndList']"
-49,1049,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[19 11 20 24],['backEndList']
-50,1050,"['Political Science', 'Human Rights', 'Grammar', 'Vocabulary', 'Speech']",[14 19 27 19 27],"['englishList', 'politicalList']"
-51,1051,"['Javascript', 'React.js', 'jQuery']",[20 12 18],"['frontEndList', 'mathsList']"
-52,1052,"['Speech', 'English Expressions']",[23 21],"['englishList', 'politicalList']"
-53,1053,[],[],['mathsList']
-54,1054,"['Political Science', 'Machine Learning', 'Data Structures']",[18 10 19],"['politicalList', 'programList']"
-55,1055,"['HTML,CSS', 'Javascript']",[23 25],"['politicalList', 'frontEndList']"
-56,1056,[],[],['mathsList']
-57,1057,"['HTML,CSS']",[15],"['politicalList', 'frontEndList']"
-58,1058,[],[],"['backEndList', 'mathsList']"
-59,1059,[],[],['programList']
-60,1060,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[19 18 19 21],['programList']
-61,1061,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery', 'Django', 'Ruby on Rails']",[15 29 23 26 27 21],"['frontEndList', 'backEndList']"
-62,1062,"['Trigonometry', 'Inverse Trignonometry', 'HTML,CSS', 'Javascript']",[24 29 16 24],"['frontEndList', 'mathsList']"
-63,1063,[],[],['politicalList']
-64,1064,[],[],['frontEndList']
-65,1065,['Data Structures'],[27],['programList']
-66,1066,['Inverse Trignonometry'],[10],['mathsList']
-67,1067,"['Political Science', 'Human Rights']",[24 11],['politicalList']
-68,1068,"['HTML,CSS', 'Javascript']",[15 11],['frontEndList']
-69,1069,"['Political Science', 'Human Rights']",[16 15],['politicalList']
-70,1070,"['Public Speaking', 'Political Science', 'Human Rights']",[15 29 19],['politicalList']
-71,1071,"['Python: Introduction', 'Ruby on Rails']",[22 23],"['backEndList', 'programList']"
-72,1072,['Javascript'],[25],"['frontEndList', 'backEndList']"
-73,1073,['Javascript'],[26],['frontEndList']
-74,1074,"['React.js', 'Machine Learning', 'Data Structures']",[10 16 19],"['frontEndList', 'programList']"
-75,1075,"['Django', 'Ruby on Rails']",[10 13],['backEndList']
-76,1076,['Data Structures'],[12],['programList']
-77,1077,"['Political Science', 'Human Rights', 'Human Rights']",[18 19 20],['politicalList']
-78,1078,[],[],['mathsList']
-79,1079,"['Node.js', 'Django']",[16 13],['backEndList']
-80,1080,['Human Rights'],[29],['politicalList']
-81,1081,"['Political Science', 'Human Rights', 'Speech', 'English Expressions']",[22 22 12 21],"['englishList', 'politicalList']"
-82,1082,"['Python: Introduction', 'Data Science', 'Machine Learning']",[12 18 24],['programList']
-83,1083,"['Trigonometry', 'Inverse Trignonometry']",[29 25],"['politicalList', 'mathsList']"
-84,1084,"['HTML,CSS', 'Javascript']",[21 20],['frontEndList']
-85,1085,"['React.js', 'Django']",[21 13],"['frontEndList', 'backEndList']"
-86,1086,['Javascript'],[20],"['englishList', 'frontEndList']"
-87,1087,[],[],['mathsList']
-88,1088,['Ruby on Rails'],[26],['backEndList']
-89,1089,"['Ruby on Rails', 'pHp']",[19 21],['backEndList']
-90,1090,['Trigonometry'],[28],['mathsList']
-91,1091,['Public Speaking'],[18],['politicalList']
-92,1092,"['HTML,CSS', 'Javascript']",[17 16],"['frontEndList', 'programList']"
-93,1093,[],[],['frontEndList']
-94,1094,"['Node.js', 'Django']",[15 24],['backEndList']
-95,1095,[],[],['programList']
-96,1096,[],[],['backEndList']
-97,1097,[],[],"['mathsList', 'programList']"
-98,1098,"['Inverse Trignonometry', 'Literature', 'Grammar', 'Vocabulary']",[15 24 20 23],"['englishList', 'mathsList']"
-99,1099,['Node.js'],[14],['backEndList']
-100,1100,[],[],['politicalList']
-101,1101,['Grammar'],[12],"['englishList', 'frontEndList']"
-102,1102,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[23 11 22 15],['programList']
-103,1103,['Javascript'],[18],"['politicalList', 'frontEndList']"
-104,1104,"['Python: Introduction', 'Data Science', 'Node.js', 'Django', 'Ruby on Rails']",[29 11 14 28 14],"['backEndList', 'programList']"
-105,1105,"['HTML,CSS']",[26],"['frontEndList', 'mathsList']"
-106,1106,[],[],['politicalList']
-107,1107,['Speech'],[13],['englishList']
-108,1108,"['Grammar', 'Vocabulary', 'Literature']",[17 22 20],['englishList']
-109,1109,['Grammar'],[25],['englishList']
-110,1110,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[18 23 16 26],['programList']
-111,1111,"['Vocabulary', 'pHp']",[14 27],"['englishList', 'backEndList']"
-112,1112,"['Machine Learning', 'Data Structures']",[14 10],"['politicalList', 'programList']"
-113,1113,[],[],['mathsList']
-114,1114,[],[],['englishList']
-115,1115,['Javascript'],[18],"['frontEndList', 'mathsList']"
-116,1116,['Data Science'],[15],['programList']
-117,1117,"['Django', 'Ruby on Rails', 'Data Science', 'Machine Learning', 'Data Structures']",[21 28 23 15 26],"['backEndList', 'programList']"
-118,1118,"['Node.js', 'Django']",[14 23],['backEndList']
-119,1119,"['Ruby on Rails', 'pHp', 'HTML,CSS', 'Javascript']",[26 22 18 11],"['frontEndList', 'backEndList']"
-120,1120,"['jQuery', 'Data Science']",[19 16],"['frontEndList', 'programList']"
-121,1121,[],[],['politicalList']
-122,1122,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[27 21 17 27 18 16 11 11],"['englishList', 'frontEndList']"
-123,1123,['Trigonometry'],[28],['mathsList']
-124,1124,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[28 13 29 10],['frontEndList']
-125,1125,['jQuery'],[25],"['englishList', 'frontEndList']"
-126,1126,[],[],['englishList']
-127,1127,"['Python: Introduction', 'Data Science', 'Node.js', 'Django', 'Ruby on Rails', 'pHp']",[13 25 29 19 22 23],"['backEndList', 'programList']"
-128,1128,"['Python: Introduction', 'Data Science', 'Machine Learning']",[21 19 18],['programList']
-129,1129,['Python: Introduction'],[20],['programList']
-130,1130,[],[],['mathsList']
-131,1131,[],[],"['politicalList', 'mathsList']"
-132,1132,"['Node.js', 'Django']",[18 13],['backEndList']
-133,1133,[],[],['frontEndList']
-134,1134,"['Python: Introduction', 'Data Science', 'Machine Learning']",[27 25 21],['programList']
-135,1135,['Data Science'],[23],['programList']
-136,1136,"['Political Science', 'Human Rights']",[25 16],['politicalList']
-137,1137,"['HTML,CSS', 'Javascript', 'React.js']",[14 18 13],['frontEndList']
-138,1138,[],[],['englishList']
-139,1139,['Javascript'],[13],['frontEndList']
-140,1140,"['Vocabulary', 'Speech', 'Data Science', 'Machine Learning', 'Data Structures']",[20 27 28 28 20],"['englishList', 'programList']"
-141,1141,"['Node.js', 'HTML,CSS', 'Javascript', 'React.js']",[11 18 20 13],"['frontEndList', 'backEndList']"
-142,1142,"['HTML,CSS', 'Javascript', 'React.js']",[11 29 25],['frontEndList']
-143,1143,[],[],['englishList']
-144,1144,"['Python: Introduction', 'Data Science', 'Machine Learning']",[13 18 10],['programList']
-145,1145,"['Inverse Trignonometry', 'Ruby on Rails', 'pHp']",[21 21 15],"['backEndList', 'mathsList']"
-146,1146,"['Vocabulary', 'Public Speaking']",[19 22],"['englishList', 'politicalList']"
-147,1147,"['HTML,CSS']",[10],['frontEndList']
-148,1148,"['Grammar', 'Vocabulary']",[17 16],['englishList']
-149,1149,"['Node.js', 'Django']",[19 28],"['backEndList', 'programList']"
-150,1150,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'Speech']",[17 21 29 24 18 14],['englishList']
-151,1151,[],[],['mathsList']
-152,1152,"['HTML,CSS']",[13],"['frontEndList', 'mathsList']"
-153,1153,[],[],['mathsList']
-154,1154,"['Data Science', 'Machine Learning', 'Public Speaking']",[13 23 19],"['politicalList', 'programList']"
-155,1155,['Human Rights'],[20],['politicalList']
-156,1156,['English Expressions'],[15],"['englishList', 'politicalList']"
-157,1157,"['Javascript', 'React.js', 'jQuery']",[26 26 27],"['frontEndList', 'backEndList']"
-158,1158,['Inverse Trignonometry'],[13],['mathsList']
-159,1159,"['Ruby on Rails', 'pHp']",[10 20],['backEndList']
-160,1160,"['Political Science', 'Human Rights']",[29 18],['politicalList']
-161,1161,['Trigonometry'],[26],['mathsList']
-162,1162,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[27 19 27 15],['programList']
-163,1163,"['Vocabulary', 'Speech', 'English Expressions']",[24 18 27],['englishList']
-164,1164,"['Trigonometry', 'Inverse Trignonometry']",[28 29],['mathsList']
-165,1165,[],[],['programList']
-166,1166,['Inverse Trignonometry'],[25],['mathsList']
-167,1167,[],[],['mathsList']
-168,1168,"['Data Structures', 'Inverse Trignonometry']",[27 19],"['mathsList', 'programList']"
-169,1169,"['Human Rights', 'Speech', 'English Expressions']",[26 12 28],"['englishList', 'politicalList']"
-170,1170,['React.js'],[13],['frontEndList']
-171,1171,"['Javascript', 'React.js', 'jQuery']",[14 17 13],['frontEndList']
-172,1172,"['Vocabulary', 'Speech']",[15 26],['englishList']
-173,1173,['Inverse Trignonometry'],[18],['mathsList']
-174,1174,"['Public Speaking', 'Political Science']",[29 25],['politicalList']
-175,1175,['Inverse Trignonometry'],[12],['mathsList']
-176,1176,"['Vocabulary', 'Speech', 'Literature', 'Grammar', 'Vocabulary']",[13 22 11 10 29],['englishList']
-177,1177,['Vocabulary'],[24],['englishList']
-178,1178,['Data Structures'],[18],"['frontEndList', 'programList']"
-179,1179,"['Django', 'Ruby on Rails']",[16 26],['backEndList']
-180,1180,"['Grammar', 'Vocabulary', 'Speech']",[17 24 24],['englishList']
-181,1181,"['Political Science', 'Human Rights']",[24 16],['politicalList']
-182,1182,['jQuery'],[17],['frontEndList']
-183,1183,[],[],['mathsList']
-184,1184,"['Vocabulary', 'Speech', 'English Expressions']",[10 15 15],"['englishList', 'mathsList']"
-185,1185,[],[],"['politicalList', 'frontEndList']"
-186,1186,[],[],['politicalList']
-187,1187,['Human Rights'],[12],['politicalList']
-188,1188,"['Vocabulary', 'Speech', 'English Expressions', 'Javascript', 'React.js']",[29 23 24 16 12],"['englishList', 'frontEndList']"
-189,1189,"['Django', 'Ruby on Rails', 'pHp']",[22 23 24],['backEndList']
-190,1190,[],[],"['backEndList', 'programList']"
-191,1191,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures', 'HTML,CSS']",[24 28 10 19 15],"['frontEndList', 'programList']"
-192,1192,"['Python: Introduction', 'Data Science', 'Django', 'Ruby on Rails']",[28 28 18 23],"['backEndList', 'programList']"
-193,1193,['Inverse Trignonometry'],[18],['mathsList']
-194,1194,['React.js'],[22],['frontEndList']
-195,1195,['jQuery'],[16],"['frontEndList', 'mathsList']"
-196,1196,['React.js'],[29],"['englishList', 'frontEndList']"
-197,1197,"['Javascript', 'React.js', 'jQuery']",[22 27 23],"['frontEndList', 'programList']"
-198,1198,"['Inverse Trignonometry', 'Trigonometry']",[26 26],['mathsList']
-199,1199,"['Public Speaking', 'Public Speaking', 'Political Science', 'Human Rights']",[19 11 14 23],['politicalList']
-200,1200,[],[],['backEndList']
-201,1201,"['Data Science', 'Machine Learning', 'Data Structures', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[19 13 14 21 21 25 22],"['frontEndList', 'programList']"
-202,1202,['Django'],[15],['backEndList']
-203,1203,['Machine Learning'],[17],['programList']
-204,1204,"['Literature', 'Grammar']",[22 28],['englishList']
-205,1205,"['HTML,CSS']",[25],['frontEndList']
-206,1206,[],[],"['englishList', 'frontEndList']"
-207,1207,"['Public Speaking', 'Political Science']",[17 16],['politicalList']
-208,1208,"['Javascript', 'React.js']",[24 27],['frontEndList']
-209,1209,"['HTML,CSS']",[25],['frontEndList']
-210,1210,"['HTML,CSS', 'Javascript']",[18 28],['frontEndList']
-211,1211,"['Data Science', 'Machine Learning', 'Machine Learning']",[19 13 29],['programList']
-212,1212,"['Political Science', 'Human Rights']",[20 20],['politicalList']
-213,1213,['Data Structures'],[26],['programList']
-214,1214,"['HTML,CSS', 'Javascript', 'Python: Introduction', 'Data Science', 'Machine Learning']",[26 17 28 10 24],"['frontEndList', 'programList']"
-215,1215,['Trigonometry'],[23],['mathsList']
-216,1216,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[10 16 11 16],"['mathsList', 'programList']"
-217,1217,"['Political Science', 'Political Science']",[19 28],['politicalList']
-218,1218,"['Trigonometry', 'Inverse Trignonometry', 'Django', 'Ruby on Rails']",[15 16 12 27],"['backEndList', 'mathsList']"
-219,1219,"['Public Speaking', 'Political Science', 'Human Rights', 'Data Science', 'Machine Learning', 'Data Structures']",[10 29 25 25 12 20],"['politicalList', 'programList']"
-220,1220,"['Grammar', 'Vocabulary', 'Speech']",[19 29 28],['englishList']
-221,1221,['Inverse Trignonometry'],[20],['mathsList']
-222,1222,"['Javascript', 'React.js', 'jQuery']",[19 28 10],['frontEndList']
-223,1223,['Human Rights'],[27],['politicalList']
-224,1224,['Data Science'],[14],['programList']
-225,1225,"['Trigonometry', 'Inverse Trignonometry', 'Python: Introduction', 'Data Science', 'Machine Learning']",[27 27 28 13 24],"['mathsList', 'programList']"
-226,1226,"['Literature', 'Grammar']",[12 19],"['englishList', 'frontEndList']"
-227,1227,"['Literature', 'Grammar', 'Vocabulary', 'Trigonometry']",[13 25 11 23],"['englishList', 'mathsList']"
-228,1228,"['Public Speaking', 'Political Science']",[26 11],"['politicalList', 'frontEndList']"
-229,1229,"['Data Science', 'Machine Learning', 'Data Structures', 'HTML,CSS', 'Javascript']",[17 15 13 24 10],"['frontEndList', 'programList']"
-230,1230,"['Machine Learning', 'Data Structures']",[24 18],['programList']
-231,1231,[],[],"['politicalList', 'programList']"
-232,1232,"['Data Science', 'Political Science', 'Human Rights']",[28 17 13],"['politicalList', 'programList']"
-233,1233,"['Speech', 'English Expressions']",[28 21],['englishList']
-234,1234,['Trigonometry'],[29],"['politicalList', 'mathsList']"
-235,1235,['Node.js'],[18],['backEndList']
-236,1236,"['Trigonometry', 'Inverse Trignonometry', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[20 24 17 20 16 16],"['frontEndList', 'mathsList']"
-237,1237,[],[],['backEndList']
-238,1238,['Inverse Trignonometry'],[21],['mathsList']
-239,1239,"['Human Rights', 'Vocabulary', 'Speech']",[29 18 14],"['englishList', 'politicalList']"
-240,1240,[],[],['mathsList']
-241,1241,['Data Science'],[28],['programList']
-242,1242,['Inverse Trignonometry'],[24],['mathsList']
-243,1243,"['Data Science', 'Machine Learning', 'Data Structures']",[11 20 15],['programList']
-244,1244,"['Political Science', 'Human Rights', 'Political Science']",[27 15 19],['politicalList']
-245,1245,"['Speech', 'English Expressions', 'pHp']",[16 21 15],"['englishList', 'backEndList']"
-246,1246,['Data Science'],[27],['programList']
-247,1247,['Javascript'],[25],['frontEndList']
-248,1248,['Literature'],[23],['englishList']
-249,1249,"['Public Speaking', 'Vocabulary']",[10 19],"['englishList', 'politicalList']"
-250,1250,"['Ruby on Rails', 'pHp']",[12 17],"['englishList', 'backEndList']"
-251,1251,"['Political Science', 'Python: Introduction', 'Data Science', 'Machine Learning']",[24 16 15 22],"['politicalList', 'programList']"
-252,1252,"['Human Rights', 'Ruby on Rails']",[29 15],"['politicalList', 'backEndList']"
-253,1253,[],[],['mathsList']
-254,1254,[],[],['backEndList']
-255,1255,"['Data Science', 'Trigonometry']",[24 13],"['mathsList', 'programList']"
-256,1256,"['Javascript', 'React.js', 'jQuery']",[17 28 27],['frontEndList']
-257,1257,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[20 23 18 23 29],['englishList']
-258,1258,[],[],['backEndList']
-259,1259,[],[],['politicalList']
-260,1260,['Django'],[28],"['backEndList', 'mathsList']"
-261,1261,[],[],['frontEndList']
-262,1262,"['Node.js', 'Django', 'Ruby on Rails']",[20 23 27],['backEndList']
-263,1263,['Inverse Trignonometry'],[17],"['politicalList', 'mathsList']"
-264,1264,"['Grammar', 'Vocabulary', 'Speech', 'Literature', 'Grammar']",[20 29 25 14 11],['englishList']
-265,1265,"['Political Science', 'Human Rights']",[16 24],"['politicalList', 'programList']"
-266,1266,['Grammar'],[10],['englishList']
-267,1267,['Human Rights'],[29],['politicalList']
-268,1268,[],[],['politicalList']
-269,1269,"['Python: Introduction', 'Data Science', 'Machine Learning']",[16 19 16],"['backEndList', 'programList']"
-270,1270,[],[],['backEndList']
+0,1000,"['Machine Learning', 'Trigonometry', 'Inverse Trignonometry']",[22 14 13],"['mathsList', 'programList']"
+1,1001,"['Public Speaking', 'Political Science']",[20 12],['politicalList']
+2,1002,['Django'],[11],['backEndList']
+3,1003,"['Vocabulary', 'Speech', 'Machine Learning', 'Data Structures']",[28 12 23 15],"['programList', 'englishList']"
+4,1004,"['Human Rights', 'Machine Learning']",[16 29],"['programList', 'politicalList']"
+5,1005,"['HTML,CSS']",[13],"['mathsList', 'frontEndList']"
+6,1006,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[11 24 27 15],['frontEndList']
+7,1007,['Speech'],[16],['englishList']
+8,1008,['Public Speaking'],[26],['politicalList']
+9,1009,[],[],['englishList']
+10,1010,"['Vocabulary', 'Speech', 'English Expressions']",[25 27 27],['englishList']
+11,1011,['Node.js'],[15],['backEndList']
+12,1012,"['Ruby on Rails', 'Ruby on Rails', 'pHp']",[27 12 27],['backEndList']
+13,1013,"['HTML,CSS', 'Javascript', 'React.js']",[23 15 20],['frontEndList']
+14,1014,"['Node.js', 'Django', 'Ruby on Rails']",[29 29 16],['backEndList']
+15,1015,[],[],['backEndList']
+16,1016,[],[],['politicalList']
+17,1017,"['Trigonometry', 'Inverse Trignonometry']",[13 15],['mathsList']
+18,1018,"['Javascript', 'React.js', 'jQuery', 'React.js']",[10 22 14 18],['frontEndList']
+19,1019,"['Trigonometry', 'Inverse Trignonometry', 'Django', 'Ruby on Rails']",[11 29 26 24],"['mathsList', 'backEndList']"
+20,1020,"['Node.js', 'Django']",[16 13],['backEndList']
+21,1021,[],[],['programList']
+22,1022,['Inverse Trignonometry'],[26],['mathsList']
+23,1023,"['Vocabulary', 'jQuery']",[27 26],"['frontEndList', 'englishList']"
+24,1024,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Django', 'Ruby on Rails']",[13 23 13 24 12 26],['backEndList']
+25,1025,"['Trigonometry', 'Inverse Trignonometry']",[12 24],['mathsList']
+26,1026,"['Django', 'Public Speaking', 'Political Science', 'Human Rights']",[15 12 22 16],"['backEndList', 'politicalList']"
+27,1027,"['Node.js', 'Django', 'Ruby on Rails']",[20 29 10],['backEndList']
+28,1028,"['Ruby on Rails', 'Inverse Trignonometry']",[10 29],"['mathsList', 'backEndList']"
+29,1029,[],[],"['programList', 'frontEndList']"
+30,1030,['Inverse Trignonometry'],[22],"['mathsList', 'englishList']"
+31,1031,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[12 22 17 12],['frontEndList']
+32,1032,"['jQuery', 'Machine Learning', 'Data Structures']",[11 19 27],"['programList', 'frontEndList']"
+33,1033,"['Vocabulary', 'Speech', 'English Expressions']",[12 28 18],['englishList']
+34,1034,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[11 21 20 27],['backEndList']
+35,1035,['Trigonometry'],[27],"['mathsList', 'politicalList']"
+36,1036,"['Vocabulary', 'Speech']",[13 28],"['mathsList', 'englishList']"
+37,1037,"['HTML,CSS', 'Python: Introduction']",[21 20],"['programList', 'frontEndList']"
+38,1038,"['React.js', 'jQuery']",[16 10],['frontEndList']
+39,1039,"['Javascript', 'React.js', 'jQuery']",[12 29 26],['frontEndList']
+40,1040,"['Public Speaking', 'Political Science', 'Literature']",[24 13 28],"['englishList', 'politicalList']"
+41,1041,"['Django', 'Ruby on Rails', 'pHp']",[10 16 15],['backEndList']
+42,1042,"['Inverse Trignonometry', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[25 12 26 20 12],"['programList', 'mathsList']"
+43,1043,"['Literature', 'Grammar', 'Vocabulary', 'Javascript']",[25 28 28 23],"['frontEndList', 'englishList']"
+44,1044,"['Trigonometry', 'HTML,CSS', 'Javascript', 'React.js']",[26 29 29 22],"['mathsList', 'frontEndList']"
+45,1045,[],[],['politicalList']
+46,1046,"['Ruby on Rails', 'pHp', 'Node.js', 'Django', 'Ruby on Rails']",[24 11 27 11 24],['backEndList']
+47,1047,"['Public Speaking', 'Literature', 'Grammar', 'Vocabulary']",[19 13 20 15],"['englishList', 'politicalList']"
+48,1048,"['Data Science', 'Machine Learning']",[22 27],"['programList', 'englishList']"
+49,1049,[],[],['englishList']
+50,1050,['Inverse Trignonometry'],[20],['mathsList']
+51,1051,"['Data Science', 'Ruby on Rails', 'pHp']",[19 12 17],"['programList', 'backEndList']"
+52,1052,[],[],['programList']
+53,1053,['Political Science'],[13],['politicalList']
+54,1054,['Data Science'],[22],['programList']
+55,1055,"['Public Speaking', 'Political Science', 'Human Rights', 'Machine Learning', 'Data Structures']",[29 17 19 14 24],"['programList', 'politicalList']"
+56,1056,"['Speech', 'English Expressions', 'Human Rights']",[17 23 26],"['politicalList', 'englishList']"
+57,1057,[],[],['mathsList']
+58,1058,"['Node.js', 'Django']",[19 21],['backEndList']
+59,1059,['Data Structures'],[24],['programList']
+60,1060,"['Machine Learning', 'Data Science']",[11 16],['programList']
+61,1061,"['Public Speaking', 'Political Science']",[22 20],['politicalList']
+62,1062,"['Trigonometry', 'Inverse Trignonometry', 'Javascript']",[16 21 17],"['mathsList', 'frontEndList']"
+63,1063,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures', 'Vocabulary', 'Speech', 'English Expressions']",[27 18 27 17 25 20 10],"['programList', 'englishList']"
+64,1064,['Grammar'],[27],['englishList']
+65,1065,[],[],['englishList']
+66,1066,"['Python: Introduction', 'Data Science', 'Machine Learning']",[22 24 19],['programList']
+67,1067,[],[],"['mathsList', 'backEndList']"
+68,1068,[],[],['mathsList']
+69,1069,['Inverse Trignonometry'],[19],['mathsList']
+70,1070,"['Inverse Trignonometry', 'jQuery']",[21 17],"['mathsList', 'frontEndList']"
+71,1071,"['Political Science', 'Human Rights', 'Trigonometry']",[15 18 18],"['mathsList', 'politicalList']"
+72,1072,"['Django', 'Ruby on Rails', 'Political Science']",[20 21 23],"['backEndList', 'politicalList']"
+73,1073,[],[],['mathsList']
+74,1074,['jQuery'],[20],['frontEndList']
+75,1075,"['Trigonometry', 'Inverse Trignonometry']",[10 24],"['mathsList', 'backEndList']"
+76,1076,[],[],['mathsList']
+77,1077,"['Public Speaking', 'Political Science', 'Human Rights', 'Node.js', 'Django']",[24 15 15 28 10],"['backEndList', 'politicalList']"
+78,1078,"['Public Speaking', 'Political Science', 'Human Rights']",[29 12 16],"['backEndList', 'politicalList']"
+79,1079,['Python: Introduction'],[26],['programList']
+80,1080,[],[],['programList']
+81,1081,['Node.js'],[25],['backEndList']
+82,1082,['Javascript'],[27],"['mathsList', 'frontEndList']"
+83,1083,"['jQuery', 'Data Science']",[25 28],"['programList', 'frontEndList']"
+84,1084,[],[],['politicalList']
+85,1085,"['HTML,CSS', 'Javascript', 'React.js']",[11 13 15],['frontEndList']
+86,1086,"['Ruby on Rails', 'HTML,CSS', 'Javascript']",[21 25 27],"['backEndList', 'frontEndList']"
+87,1087,"['Inverse Trignonometry', 'Vocabulary', 'Speech', 'English Expressions']",[10 29 21 25],"['mathsList', 'englishList']"
+88,1088,['jQuery'],[25],"['programList', 'frontEndList']"
+89,1089,"['Javascript', 'React.js', 'HTML,CSS', 'Javascript', 'React.js']",[21 14 26 27 26],['frontEndList']
+90,1090,"['Literature', 'Literature']",[22 19],['englishList']
+91,1091,['Human Rights'],[22],"['mathsList', 'politicalList']"
+92,1092,[],[],['politicalList']
+93,1093,['Data Structures'],[19],['programList']
+94,1094,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery', 'Public Speaking']",[11 13 20 23 23],"['frontEndList', 'politicalList']"
+95,1095,['Inverse Trignonometry'],[25],['mathsList']
+96,1096,"['Literature', 'Grammar', 'Vocabulary']",[23 22 17],['englishList']
+97,1097,"['Public Speaking', 'jQuery']",[24 17],"['frontEndList', 'politicalList']"
+98,1098,"['Ruby on Rails', 'pHp']",[27 17],"['programList', 'backEndList']"
+99,1099,['Machine Learning'],[15],['programList']
+100,1100,"['Public Speaking', 'Political Science', 'Human Rights']",[12 26 25],"['mathsList', 'politicalList']"
+101,1101,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[11 12 19 27],['programList']
+102,1102,"['Machine Learning', 'Javascript']",[26 22],"['programList', 'frontEndList']"
+103,1103,"['Node.js', 'Django']",[12 23],['backEndList']
+104,1104,"['Ruby on Rails', 'pHp']",[11 13],"['backEndList', 'politicalList']"
+105,1105,"['Grammar', 'Vocabulary', 'Speech']",[14 16 16],['englishList']
+106,1106,"['HTML,CSS', 'Javascript', 'React.js']",[24 17 12],['frontEndList']
+107,1107,['Political Science'],[23],['politicalList']
+108,1108,"['Data Science', 'Machine Learning', 'Data Structures']",[12 25 27],['programList']
+109,1109,"['React.js', 'jQuery']",[10 22],['frontEndList']
+110,1110,['Human Rights'],[16],['politicalList']
+111,1111,"['Javascript', 'React.js', 'jQuery', 'HTML,CSS', 'Javascript', 'React.js']",[13 19 10 28 10 16],['frontEndList']
+112,1112,"['Public Speaking', 'Political Science']",[16 14],"['englishList', 'politicalList']"
+113,1113,"['Javascript', 'React.js', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[22 24 25 13 10 19],"['frontEndList', 'englishList']"
+114,1114,['Political Science'],[18],['politicalList']
+115,1115,"['pHp', 'English Expressions']",[17 11],"['backEndList', 'englishList']"
+116,1116,"['Political Science', 'Grammar', 'Vocabulary']",[27 10 23],"['englishList', 'politicalList']"
+117,1117,"['Data Science', 'Machine Learning', 'Data Structures', 'Machine Learning']",[29 25 18 20],['programList']
+118,1118,"['Data Science', 'Machine Learning', 'Data Structures', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[17 25 29 28 16 19 25],['programList']
+119,1119,"['Public Speaking', 'Political Science', 'Human Rights']",[22 11 25],['politicalList']
+120,1120,['Django'],[19],['backEndList']
+121,1121,[],[],['mathsList']
+122,1122,"['Grammar', 'Vocabulary', 'Speech']",[26 16 11],['englishList']
+123,1123,['Machine Learning'],[22],['programList']
+124,1124,"['Python: Introduction', 'Data Science', 'Machine Learning']",[17 13 25],"['programList', 'frontEndList']"
+125,1125,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[14 18 19 16 10],['englishList']
+126,1126,['jQuery'],[10],['frontEndList']
+127,1127,['Django'],[18],['backEndList']
+128,1128,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[18 22 24 22 11],['englishList']
+129,1129,[],[],['mathsList']
+130,1130,"['Django', 'Ruby on Rails']",[18 18],['backEndList']
+131,1131,['React.js'],[14],['frontEndList']
+132,1132,"['HTML,CSS', 'Javascript', 'React.js', 'HTML,CSS', 'Javascript', 'React.js']",[23 15 21 14 24 26],['frontEndList']
+133,1133,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Inverse Trignonometry']",[22 26 16 10 25],"['mathsList', 'backEndList']"
+134,1134,[],[],['mathsList']
+135,1135,['Trigonometry'],[29],"['mathsList', 'politicalList']"
+136,1136,"['Literature', 'Grammar', 'Vocabulary', 'English Expressions']",[26 20 10 28],['englishList']
+137,1137,"['React.js', 'jQuery']",[15 10],['frontEndList']
+138,1138,"['Public Speaking', 'Political Science', 'Human Rights']",[12 25 18],['politicalList']
+139,1139,"['Data Science', 'Machine Learning']",[24 14],"['programList', 'backEndList']"
+140,1140,"['Data Science', 'Machine Learning', 'React.js', 'jQuery']",[10 18 16 10],"['programList', 'frontEndList']"
+141,1141,[],[],['frontEndList']
+142,1142,"['Data Science', 'Machine Learning', 'Data Structures']",[27 19 22],['programList']
+143,1143,[],[],['frontEndList']
+144,1144,"['Node.js', 'Django']",[11 29],['backEndList']
+145,1145,['Javascript'],[10],['frontEndList']
+146,1146,"['Javascript', 'Python: Introduction', 'Data Science']",[24 20 26],"['programList', 'frontEndList']"
+147,1147,"['React.js', 'jQuery']",[28 23],['frontEndList']
+148,1148,"['Political Science', 'HTML,CSS', 'Javascript', 'React.js']",[18 23 18 20],"['frontEndList', 'politicalList']"
+149,1149,"['Javascript', 'React.js', 'Machine Learning']",[21 13 21],"['programList', 'frontEndList']"
+150,1150,['Inverse Trignonometry'],[26],['mathsList']
+151,1151,"['Ruby on Rails', 'pHp']",[28 12],['backEndList']
+152,1152,"['Political Science', 'Human Rights', 'Data Science']",[12 22 25],"['programList', 'politicalList']"
+153,1153,"['Python: Introduction', 'Data Science', 'Machine Learning']",[27 24 22],['programList']
+154,1154,['Django'],[11],['backEndList']
+155,1155,['React.js'],[26],['frontEndList']
+156,1156,['Public Speaking'],[21],['politicalList']
+157,1157,[],[],['englishList']
+158,1158,"['Public Speaking', 'Political Science', 'Human Rights', 'jQuery']",[19 16 20 25],"['frontEndList', 'politicalList']"
+159,1159,"['Python: Introduction', 'Data Science', 'Machine Learning']",[21 13 29],['programList']
+160,1160,['Trigonometry'],[29],['mathsList']
+161,1161,"['Public Speaking', 'Political Science']",[16 11],['politicalList']
+162,1162,"['Python: Introduction', 'Political Science', 'Human Rights']",[11 13 14],"['programList', 'politicalList']"
+163,1163,"['HTML,CSS', 'Javascript']",[20 14],['frontEndList']
+164,1164,['Data Science'],[13],['programList']
+165,1165,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[22 21 20 18],"['backEndList', 'englishList']"
+166,1166,['Trigonometry'],[26],['mathsList']
+167,1167,['Vocabulary'],[11],"['mathsList', 'englishList']"
+168,1168,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery', 'Javascript', 'React.js', 'jQuery']",[25 14 10 19 27 10 27],['frontEndList']
+169,1169,['React.js'],[10],"['programList', 'frontEndList']"
+170,1170,[],[],['mathsList']
+171,1171,"['Political Science', 'Human Rights', 'Data Science']",[16 26 22],"['programList', 'politicalList']"
+172,1172,"['Javascript', 'React.js', 'jQuery']",[28 25 24],['frontEndList']
+173,1173,['Data Science'],[17],['programList']
+174,1174,"['Trigonometry', 'Inverse Trignonometry', 'Ruby on Rails', 'pHp']",[17 13 13 27],"['mathsList', 'backEndList']"
+175,1175,['Inverse Trignonometry'],[11],['mathsList']
+176,1176,"['Trigonometry', 'Inverse Trignonometry']",[27 12],['mathsList']
+177,1177,['Public Speaking'],[17],['politicalList']
+178,1178,"['Django', 'Ruby on Rails', 'pHp', 'Vocabulary', 'Speech']",[12 24 26 22 29],"['backEndList', 'englishList']"
+179,1179,['jQuery'],[18],['frontEndList']
+180,1180,['pHp'],[17],['backEndList']
+181,1181,"['Political Science', 'Trigonometry', 'Inverse Trignonometry']",[26 24 14],"['mathsList', 'politicalList']"
+182,1182,"['Literature', 'Grammar', 'Vocabulary']",[23 16 19],"['politicalList', 'englishList']"
+183,1183,"['Trigonometry', 'Inverse Trignonometry']",[17 26],['mathsList']
+184,1184,[],[],['mathsList']
+185,1185,"['HTML,CSS', 'English Expressions']",[18 18],"['frontEndList', 'englishList']"
+186,1186,"['Trigonometry', 'Inverse Trignonometry']",[22 13],['mathsList']
+187,1187,"['Django', 'Ruby on Rails']",[12 17],"['mathsList', 'backEndList']"
+188,1188,[],[],['mathsList']
+189,1189,['Grammar'],[28],"['mathsList', 'englishList']"
+190,1190,['Javascript'],[14],['frontEndList']
+191,1191,"['Trigonometry', 'Inverse Trignonometry']",[11 12],['mathsList']
+192,1192,[],[],['frontEndList']
+193,1193,"['HTML,CSS']",[14],"['backEndList', 'frontEndList']"
+194,1194,"['Vocabulary', 'Speech', 'React.js']",[23 10 15],"['frontEndList', 'englishList']"
+195,1195,"['Data Structures', 'Public Speaking']",[13 12],"['programList', 'politicalList']"
+196,1196,['Ruby on Rails'],[20],"['backEndList', 'frontEndList']"
+197,1197,[],[],['frontEndList']
+198,1198,"['Trigonometry', 'Trigonometry']",[24 18],['mathsList']
+199,1199,"['React.js', 'jQuery']",[27 23],['frontEndList']
+200,1200,"['Python: Introduction', 'Data Science']",[12 24],['programList']
+201,1201,"['Grammar', 'Vocabulary', 'Speech']",[11 29 12],['englishList']
+202,1202,"['React.js', 'jQuery']",[18 12],['frontEndList']
+203,1203,"['Django', 'Ruby on Rails', 'pHp']",[18 21 29],"['backEndList', 'politicalList']"
+204,1204,['Human Rights'],[21],['politicalList']
+205,1205,"['Political Science', 'Human Rights', 'Ruby on Rails']",[26 20 11],"['backEndList', 'politicalList']"
+206,1206,"['Public Speaking', 'Political Science', 'Human Rights']",[20 14 23],['politicalList']
+207,1207,['Literature'],[21],['englishList']
+208,1208,"['Javascript', 'React.js']",[23 27],"['backEndList', 'frontEndList']"
+209,1209,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[11 15 24 18 16 26 14 20],"['backEndList', 'englishList']"
+210,1210,['Inverse Trignonometry'],[12],['mathsList']
+211,1211,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[20 17 13 12],['frontEndList']
+212,1212,"['Django', 'Ruby on Rails', 'pHp']",[23 24 12],['backEndList']
+213,1213,"['Inverse Trignonometry', 'Trigonometry', 'Inverse Trignonometry']",[22 12 21],['mathsList']
+214,1214,['Public Speaking'],[27],['politicalList']
+215,1215,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[25 12 16 14],['englishList']
+216,1216,"['Django', 'Ruby on Rails']",[28 12],"['mathsList', 'backEndList']"
+217,1217,"['Public Speaking', 'Political Science', 'Human Rights']",[21 12 13],['politicalList']
+218,1218,"['Node.js', 'Public Speaking']",[20 24],"['backEndList', 'politicalList']"
+219,1219,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[15 26 15 11],['englishList']
+220,1220,['Trigonometry'],[28],"['mathsList', 'frontEndList']"
+221,1221,"['Node.js', 'Django', 'Ruby on Rails']",[21 22 24],['backEndList']
+222,1222,"['Trigonometry', 'Inverse Trignonometry']",[11 23],"['mathsList', 'programList']"
+223,1223,"['Trigonometry', 'Machine Learning', 'Data Structures']",[19 11 12],"['programList', 'mathsList']"
+224,1224,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'English Expressions']",[16 22 29 17 24],['englishList']
+225,1225,"['Django', 'Ruby on Rails', 'Data Science']",[18 13 10],"['programList', 'backEndList']"
+226,1226,"['Trigonometry', 'Inverse Trignonometry', 'React.js', 'jQuery']",[18 26 16 14],"['mathsList', 'frontEndList']"
+227,1227,['Inverse Trignonometry'],[13],['mathsList']
+228,1228,"['Django', 'Ruby on Rails']",[21 13],['backEndList']
+229,1229,"['React.js', 'jQuery']",[13 15],['frontEndList']
+230,1230,"['Javascript', 'React.js', 'jQuery']",[28 26 26],['frontEndList']
+231,1231,"['Political Science', 'Human Rights', 'Political Science']",[24 14 22],['politicalList']
+232,1232,"['Trigonometry', 'Node.js', 'Django', 'Ruby on Rails']",[24 19 23 25],"['mathsList', 'backEndList']"
+233,1233,"['Python: Introduction', 'Political Science', 'Human Rights']",[23 10 29],"['programList', 'politicalList']"
+234,1234,[],[],['programList']
+235,1235,['Human Rights'],[29],['politicalList']
+236,1236,"['Inverse Trignonometry', 'Data Science']",[11 15],"['programList', 'mathsList']"
+237,1237,"['Vocabulary', 'Speech', 'English Expressions']",[20 14 28],['englishList']
+238,1238,"['Political Science', 'Human Rights']",[10 11],['politicalList']
+239,1239,['Inverse Trignonometry'],[18],['mathsList']
+240,1240,"['HTML,CSS', 'Javascript']",[15 15],"['backEndList', 'frontEndList']"
+241,1241,[],[],['backEndList']
+242,1242,['Trigonometry'],[22],['mathsList']
+243,1243,['Data Structures'],[23],['programList']
+244,1244,"['Python: Introduction', 'Data Science', 'Django']",[28 29 29],"['programList', 'backEndList']"
+245,1245,"['Vocabulary', 'Speech']",[11 28],['englishList']
+246,1246,"['Public Speaking', 'Political Science']",[10 18],['politicalList']
+247,1247,"['Node.js', 'Django', 'React.js']",[22 24 18],"['backEndList', 'frontEndList']"
+248,1248,[],[],['politicalList']
+249,1249,"['Javascript', 'React.js']",[23 10],['frontEndList']
+250,1250,"['Vocabulary', 'Speech', 'English Expressions']",[29 26 19],"['mathsList', 'englishList']"
+251,1251,['Python: Introduction'],[26],['programList']
+252,1252,"['Data Science', 'Machine Learning']",[29 13],['programList']
+253,1253,"['Machine Learning', 'Data Structures', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[13 10 27 24 16 18],['programList']
+254,1254,"['Vocabulary', 'Speech']",[23 16],['englishList']
+255,1255,['Grammar'],[10],['englishList']
+256,1256,['Inverse Trignonometry'],[12],['mathsList']
+257,1257,"['jQuery', 'Trigonometry']",[13 23],"['mathsList', 'frontEndList']"
+258,1258,['Machine Learning'],[16],['programList']
+259,1259,[],[],['backEndList']
+260,1260,"['Public Speaking', 'Political Science', 'Human Rights']",[21 26 16],['politicalList']
+261,1261,['Python: Introduction'],[21],['programList']
+262,1262,['Trigonometry'],[25],"['mathsList', 'englishList']"
+263,1263,['Inverse Trignonometry'],[23],['mathsList']
+264,1264,"['Political Science', 'Javascript', 'React.js']",[29 24 10],"['frontEndList', 'politicalList']"
+265,1265,['Trigonometry'],[10],['mathsList']
+266,1266,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[22 28 29 29],['frontEndList']
+267,1267,['Political Science'],[17],['politicalList']
+268,1268,['Trigonometry'],[17],['mathsList']
+269,1269,[],[],['backEndList']
+270,1270,['Human Rights'],[21],['politicalList']
 271,1271,[],[],['politicalList']
-272,1272,[],[],['mathsList']
-273,1273,"['Python: Introduction', 'Data Science', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[14 24 10 13 11 19],['programList']
-274,1274,"['Data Science', 'Machine Learning']",[13 24],['programList']
+272,1272,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Vocabulary', 'Speech', 'English Expressions']",[18 25 29 15 28 27 12],"['backEndList', 'englishList']"
+273,1273,[],[],['politicalList']
+274,1274,"['Trigonometry', 'Inverse Trignonometry']",[22 26],['mathsList']
 275,1275,[],[],['frontEndList']
-276,1276,['Inverse Trignonometry'],[24],['mathsList']
-277,1277,"['Python: Introduction', 'Public Speaking', 'Political Science', 'Human Rights']",[10 21 29 16],"['politicalList', 'programList']"
-278,1278,"['Ruby on Rails', 'Literature']",[15 10],"['englishList', 'backEndList']"
-279,1279,"['Political Science', 'Literature', 'Grammar']",[12 18 18],"['englishList', 'politicalList']"
-280,1280,"['Trigonometry', 'Inverse Trignonometry']",[25 21],['mathsList']
-281,1281,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[22 22 12 18],['frontEndList']
-282,1282,['React.js'],[11],['frontEndList']
-283,1283,['Human Rights'],[26],['politicalList']
-284,1284,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[15 20 18 19],['frontEndList']
-285,1285,"['Vocabulary', 'Speech', 'English Expressions', 'Data Science', 'Machine Learning']",[25 16 13 23 10],"['englishList', 'programList']"
-286,1286,['Inverse Trignonometry'],[29],['mathsList']
-287,1287,['Trigonometry'],[29],"['englishList', 'mathsList']"
-288,1288,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[26 11 12 26],"['frontEndList', 'backEndList']"
-289,1289,"['Trigonometry', 'Node.js', 'Django']",[26 14 10],"['backEndList', 'mathsList']"
-290,1290,['Django'],[15],"['englishList', 'backEndList']"
-291,1291,"['Vocabulary', 'Speech', 'English Expressions', 'Political Science', 'Human Rights']",[28 24 18 25 12],"['englishList', 'politicalList']"
-292,1292,"['Data Science', 'Public Speaking']",[19 26],"['politicalList', 'programList']"
-293,1293,"['Javascript', 'React.js', 'jQuery']",[18 19 19],['frontEndList']
-294,1294,['Inverse Trignonometry'],[14],['mathsList']
-295,1295,"['Public Speaking', 'Vocabulary', 'Speech']",[18 14 11],"['englishList', 'politicalList']"
-296,1296,"['Grammar', 'Vocabulary', 'Speech']",[14 12 23],['englishList']
-297,1297,['Inverse Trignonometry'],[10],['mathsList']
-298,1298,"['Trigonometry', 'Inverse Trignonometry']",[23 22],['mathsList']
-299,1299,['jQuery'],[22],['frontEndList']
-300,1300,"['Political Science', 'Human Rights']",[12 10],['politicalList']
-301,1301,"['Grammar', 'Vocabulary', 'Speech', 'Javascript', 'React.js']",[29 14 29 19 11],"['englishList', 'frontEndList']"
-302,1302,"['Vocabulary', 'Speech', 'English Expressions']",[13 26 23],['englishList']
-303,1303,"['Grammar', 'Inverse Trignonometry']",[23 17],"['englishList', 'mathsList']"
-304,1304,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[16 26 16 28],['programList']
-305,1305,"['Literature', 'Grammar', 'Vocabulary']",[10 26 11],['englishList']
-306,1306,[],[],['backEndList']
-307,1307,"['Political Science', 'Data Science', 'Machine Learning', 'Data Structures']",[10 28 13 29],"['politicalList', 'programList']"
-308,1308,['Vocabulary'],[10],"['englishList', 'backEndList']"
-309,1309,"['Political Science', 'Human Rights', 'Python: Introduction', 'Data Science']",[26 20 19 20],"['politicalList', 'programList']"
-310,1310,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures', 'Vocabulary', 'Speech']",[14 10 16 26 20 14],"['englishList', 'programList']"
-311,1311,['Literature'],[13],"['englishList', 'mathsList']"
-312,1312,['Human Rights'],[24],['politicalList']
-313,1313,['Machine Learning'],[24],['programList']
-314,1314,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[11 16 22 10],"['englishList', 'programList']"
-315,1315,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[10 16 23 12],['programList']
-316,1316,['Python: Introduction'],[13],['programList']
-317,1317,"['Node.js', 'Django', 'Public Speaking']",[17 10 11],"['politicalList', 'backEndList']"
-318,1318,"['Node.js', 'Django', 'Ruby on Rails', 'Node.js', 'Django', 'Ruby on Rails', 'pHp']",[22 21 14 27 29 24 12],['backEndList']
-319,1319,"['Literature', 'Grammar']",[22 16],"['englishList', 'mathsList']"
-320,1320,"['Political Science', 'Javascript', 'React.js']",[26 22 15],"['politicalList', 'frontEndList']"
-321,1321,"['HTML,CSS', 'Javascript']",[19 11],['frontEndList']
-322,1322,"['Grammar', 'Vocabulary', 'Speech', 'Javascript', 'React.js', 'jQuery']",[24 15 25 24 11 18],"['englishList', 'frontEndList']"
-323,1323,"['Django', 'Ruby on Rails']",[16 10],['backEndList']
-324,1324,"['Public Speaking', 'Political Science', 'Human Rights', 'Python: Introduction', 'Data Science']",[27 29 23 16 29],"['politicalList', 'programList']"
-325,1325,"['Trigonometry', 'Inverse Trignonometry']",[21 19],['mathsList']
-326,1326,"['Node.js', 'Django']",[14 21],"['backEndList', 'programList']"
-327,1327,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures', 'Data Science', 'Machine Learning', 'Data Structures']",[27 27 13 23 28 20 28],['programList']
-328,1328,"['Vocabulary', 'Speech']",[13 27],"['englishList', 'frontEndList']"
-329,1329,"['Political Science', 'Human Rights', 'Django', 'Ruby on Rails', 'pHp']",[29 24 18 26 20],"['politicalList', 'backEndList']"
-330,1330,"['Node.js', 'Django']",[29 25],['backEndList']
-331,1331,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[27 10 27 20 29],['englishList']
-332,1332,['Political Science'],[26],"['politicalList', 'backEndList']"
-333,1333,"['Data Science', 'Vocabulary']",[14 16],"['englishList', 'programList']"
-334,1334,['Data Science'],[18],"['mathsList', 'programList']"
-335,1335,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'HTML,CSS', 'Javascript', 'React.js']",[10 12 29 23 14 10 15],"['frontEndList', 'backEndList']"
-336,1336,"['Public Speaking', 'Inverse Trignonometry']",[29 17],"['politicalList', 'mathsList']"
-337,1337,"['Django', 'Ruby on Rails', 'pHp']",[20 16 27],['backEndList']
-338,1338,"['Python: Introduction', 'Data Science']",[10 18],['programList']
-339,1339,"['Trigonometry', 'Inverse Trignonometry', 'Public Speaking']",[18 27 16],"['politicalList', 'mathsList']"
-340,1340,[],[],['programList']
-341,1341,['Political Science'],[10],['politicalList']
-342,1342,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[11 22 19 12],['backEndList']
-343,1343,['Python: Introduction'],[29],['programList']
-344,1344,[],[],['politicalList']
-345,1345,"['Django', 'Ruby on Rails']",[26 19],"['backEndList', 'mathsList']"
-346,1346,[],[],['mathsList']
-347,1347,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures', 'Grammar', 'Vocabulary']",[25 28 18 11 19 22],"['englishList', 'programList']"
-348,1348,['Ruby on Rails'],[14],['backEndList']
-349,1349,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[19 19 27 10],"['frontEndList', 'programList']"
-350,1350,"['Political Science', 'Public Speaking', 'Political Science', 'Human Rights']",[20 28 13 27],['politicalList']
-351,1351,"['Political Science', 'Human Rights', 'Ruby on Rails', 'pHp']",[22 11 25 25],"['politicalList', 'backEndList']"
-352,1352,"['Inverse Trignonometry', 'HTML,CSS']",[19 29],"['frontEndList', 'mathsList']"
-353,1353,"['Grammar', 'Vocabulary']",[19 26],['englishList']
-354,1354,[],[],"['englishList', 'politicalList']"
-355,1355,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[23 26 23 10],['programList']
-356,1356,"['Inverse Trignonometry', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[11 24 29 10 19],"['englishList', 'mathsList']"
-357,1357,[],[],"['frontEndList', 'programList']"
-358,1358,"['Javascript', 'React.js', 'jQuery']",[16 24 29],['frontEndList']
-359,1359,"['Trigonometry', 'Inverse Trignonometry']",[21 17],['mathsList']
-360,1360,"['Speech', 'English Expressions']",[26 16],['englishList']
-361,1361,['Ruby on Rails'],[17],"['politicalList', 'backEndList']"
-362,1362,"['Political Science', 'Human Rights', 'Data Science', 'Machine Learning', 'Data Structures']",[24 25 10 22 25],"['politicalList', 'programList']"
-363,1363,"['HTML,CSS', 'Javascript', 'React.js']",[12 12 11],"['frontEndList', 'mathsList']"
-364,1364,['Human Rights'],[29],['politicalList']
-365,1365,[],[],['politicalList']
-366,1366,"['Public Speaking', 'Trigonometry']",[15 18],"['politicalList', 'mathsList']"
-367,1367,[],[],['frontEndList']
-368,1368,[],[],['programList']
-369,1369,"['Trigonometry', 'Grammar', 'Vocabulary', 'Speech']",[14 21 17 21],"['englishList', 'mathsList']"
-370,1370,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery', 'Trigonometry']",[19 24 14 26 19],"['frontEndList', 'mathsList']"
-371,1371,['jQuery'],[27],['frontEndList']
-372,1372,['Machine Learning'],[21],['programList']
-373,1373,"['Ruby on Rails', 'pHp']",[23 14],"['backEndList', 'programList']"
-374,1374,"['Trigonometry', 'Inverse Trignonometry', 'Vocabulary', 'Speech', 'English Expressions']",[12 17 29 13 10],"['englishList', 'mathsList']"
-375,1375,['Trigonometry'],[29],['mathsList']
-376,1376,['Data Science'],[29],['programList']
-377,1377,"['Public Speaking', 'Political Science']",[22 25],"['politicalList', 'backEndList']"
-378,1378,[],[],['frontEndList']
-379,1379,[],[],"['englishList', 'programList']"
-380,1380,['Human Rights'],[12],"['politicalList', 'backEndList']"
-381,1381,[],[],['politicalList']
-382,1382,[],[],['frontEndList']
-383,1383,"['Node.js', 'Django', 'Ruby on Rails']",[17 29 10],['backEndList']
-384,1384,"['Trigonometry', 'Inverse Trignonometry', 'Node.js', 'Django']",[12 18 12 23],"['backEndList', 'mathsList']"
-385,1385,"['React.js', 'jQuery']",[14 12],['frontEndList']
-386,1386,['Human Rights'],[17],"['politicalList', 'backEndList']"
-387,1387,"['Literature', 'Grammar', 'Vocabulary']",[25 29 10],['englishList']
-388,1388,['English Expressions'],[11],['englishList']
-389,1389,[],[],['politicalList']
-390,1390,"['Python: Introduction', 'Data Science']",[27 23],"['frontEndList', 'programList']"
-391,1391,"['Public Speaking', 'Political Science']",[18 23],['politicalList']
-392,1392,['Grammar'],[23],"['englishList', 'backEndList']"
-393,1393,['Data Structures'],[23],['programList']
-394,1394,"['Ruby on Rails', 'pHp', 'Trigonometry', 'Inverse Trignonometry']",[29 12 28 19],"['backEndList', 'mathsList']"
-395,1395,"['Machine Learning', 'Data Structures', 'Data Science']",[20 19 10],['programList']
-396,1396,"['HTML,CSS', 'Javascript']",[18 10],['frontEndList']
+276,1276,"['jQuery', 'Grammar', 'Vocabulary']",[29 26 11],"['frontEndList', 'englishList']"
+277,1277,"['Node.js', 'pHp']",[13 23],['backEndList']
+278,1278,['English Expressions'],[23],['englishList']
+279,1279,['Speech'],[12],['englishList']
+280,1280,['Javascript'],[13],['frontEndList']
+281,1281,['React.js'],[29],['frontEndList']
+282,1282,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[22 22 27 19],['frontEndList']
+283,1283,"['Public Speaking', 'Political Science', 'Human Rights', 'Node.js']",[19 16 18 18],"['backEndList', 'politicalList']"
+284,1284,"['Node.js', 'Django', 'Ruby on Rails']",[27 26 29],['backEndList']
+285,1285,['Inverse Trignonometry'],[29],"['mathsList', 'englishList']"
+286,1286,['Public Speaking'],[20],['politicalList']
+287,1287,"['Django', 'Ruby on Rails']",[29 22],"['backEndList', 'frontEndList']"
+288,1288,[],[],['backEndList']
+289,1289,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[11 13 16 10],['englishList']
+290,1290,"['Ruby on Rails', 'pHp', 'Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[23 24 11 22 10 27 19],"['backEndList', 'englishList']"
+291,1291,['Public Speaking'],[18],['politicalList']
+292,1292,['pHp'],[25],['backEndList']
+293,1293,"['Inverse Trignonometry', 'Django', 'Ruby on Rails', 'pHp']",[13 16 26 13],"['mathsList', 'backEndList']"
+294,1294,"['Trigonometry', 'Inverse Trignonometry', 'Node.js', 'Django', 'Ruby on Rails']",[29 14 14 13 14],"['mathsList', 'backEndList']"
+295,1295,[],[],['backEndList']
+296,1296,"['Public Speaking', 'Political Science']",[19 13],"['frontEndList', 'politicalList']"
+297,1297,"['HTML,CSS', 'Javascript', 'React.js']",[11 15 13],['frontEndList']
+298,1298,['Human Rights'],[18],['politicalList']
+299,1299,['Ruby on Rails'],[19],['backEndList']
+300,1300,"['Data Structures', 'Data Science', 'Machine Learning']",[10 19 16],['programList']
+301,1301,"['Political Science', 'Human Rights']",[15 17],['politicalList']
+302,1302,['Data Structures'],[12],['programList']
+303,1303,['Literature'],[13],"['englishList', 'politicalList']"
+304,1304,"['Ruby on Rails', 'pHp', 'Machine Learning', 'Data Structures']",[22 15 13 20],"['programList', 'backEndList']"
+305,1305,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[22 17 27 20],['backEndList']
+306,1306,"['Django', 'Ruby on Rails', 'pHp', 'Node.js', 'Django', 'Ruby on Rails']",[14 14 26 11 14 21],['backEndList']
+307,1307,['English Expressions'],[15],['englishList']
+308,1308,"['Grammar', 'Inverse Trignonometry']",[24 24],"['mathsList', 'englishList']"
+309,1309,[],[],['mathsList']
+310,1310,"['Node.js', 'Django']",[11 25],['backEndList']
+311,1311,"['Political Science', 'Human Rights']",[21 17],"['politicalList', 'englishList']"
+312,1312,['Public Speaking'],[10],['politicalList']
+313,1313,"['Data Structures', 'Python: Introduction', 'Data Science', 'Machine Learning']",[26 21 21 16],['programList']
+314,1314,['Inverse Trignonometry'],[14],['mathsList']
+315,1315,"['Django', 'Ruby on Rails', 'pHp', 'Trigonometry', 'Inverse Trignonometry']",[26 23 10 20 23],"['mathsList', 'backEndList']"
+316,1316,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[18 17 23 23 20 23 15 23],"['frontEndList', 'englishList']"
+317,1317,"['Public Speaking', 'Political Science', 'Political Science']",[13 29 29],['politicalList']
+318,1318,"['Public Speaking', 'Ruby on Rails']",[24 28],"['backEndList', 'politicalList']"
+319,1319,"['Public Speaking', 'Political Science', 'Human Rights', 'React.js', 'jQuery']",[17 16 28 15 22],"['frontEndList', 'politicalList']"
+320,1320,"['Speech', 'English Expressions']",[29 11],['englishList']
+321,1321,[],[],"['frontEndList', 'politicalList']"
+322,1322,"['React.js', 'jQuery']",[21 22],['frontEndList']
+323,1323,"['Javascript', 'React.js', 'Grammar', 'Vocabulary']",[23 22 16 24],"['frontEndList', 'englishList']"
+324,1324,[],[],['mathsList']
+325,1325,"['HTML,CSS', 'Javascript', 'Public Speaking']",[11 28 10],"['frontEndList', 'politicalList']"
+326,1326,['Node.js'],[10],"['backEndList', 'englishList']"
+327,1327,"['Data Science', 'Grammar', 'Vocabulary']",[15 29 19],"['programList', 'englishList']"
+328,1328,['Trigonometry'],[24],"['mathsList', 'frontEndList']"
+329,1329,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[23 11 26 14 23],['englishList']
+330,1330,"['HTML,CSS', 'Javascript', 'Political Science']",[29 28 22],"['frontEndList', 'politicalList']"
+331,1331,"['Public Speaking', 'Political Science']",[24 14],['politicalList']
+332,1332,"['Node.js', 'Django', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[28 12 23 10 13 19],"['backEndList', 'englishList']"
+333,1333,[],[],['englishList']
+334,1334,"['Public Speaking', 'Political Science', 'Human Rights', 'Javascript', 'React.js', 'jQuery']",[16 26 20 19 19 28],"['frontEndList', 'politicalList']"
+335,1335,[],[],"['englishList', 'politicalList']"
+336,1336,"['Political Science', 'Human Rights', 'Javascript', 'React.js']",[17 25 12 24],"['frontEndList', 'politicalList']"
+337,1337,"['Python: Introduction', 'Javascript']",[11 25],"['programList', 'frontEndList']"
+338,1338,['Inverse Trignonometry'],[24],['mathsList']
+339,1339,"['Vocabulary', 'Speech']",[27 19],['englishList']
+340,1340,"['Node.js', 'Node.js', 'Django', 'Ruby on Rails', 'pHp']",[18 24 16 23 25],['backEndList']
+341,1341,"['Grammar', 'Vocabulary', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[13 24 15 29 19 25],"['frontEndList', 'englishList']"
+342,1342,['Vocabulary'],[18],['englishList']
+343,1343,"['Django', 'Ruby on Rails', 'pHp']",[18 24 21],['backEndList']
+344,1344,"['jQuery', 'pHp']",[18 16],"['backEndList', 'frontEndList']"
+345,1345,"['Data Science', 'Machine Learning', 'Data Structures']",[22 21 18],['programList']
+346,1346,"['HTML,CSS', 'Javascript', 'React.js', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[23 10 18 15 13 15 10],"['frontEndList', 'englishList']"
+347,1347,[],[],['frontEndList']
+348,1348,[],[],['frontEndList']
+349,1349,"['Vocabulary', 'Speech', 'English Expressions']",[12 27 16],"['backEndList', 'englishList']"
+350,1350,"['Javascript', 'React.js', 'jQuery']",[14 28 25],['frontEndList']
+351,1351,"['Trigonometry', 'Inverse Trignonometry', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[15 22 22 11 22 16],"['mathsList', 'englishList']"
+352,1352,[],[],['backEndList']
+353,1353,"['Literature', 'Grammar', 'Vocabulary']",[21 25 10],['englishList']
+354,1354,"['Django', 'Ruby on Rails', 'pHp', 'Trigonometry', 'Inverse Trignonometry']",[10 27 14 12 20],"['mathsList', 'backEndList']"
+355,1355,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[28 11 21 17],['englishList']
+356,1356,"['Python: Introduction', 'Data Science', 'Python: Introduction']",[17 28 23],['programList']
+357,1357,"['Public Speaking', 'Political Science']",[13 24],['politicalList']
+358,1358,[],[],"['mathsList', 'politicalList']"
+359,1359,"['Trigonometry', 'Inverse Trignonometry']",[27 14],['mathsList']
+360,1360,[],[],"['programList', 'politicalList']"
+361,1361,"['Django', 'Ruby on Rails', 'pHp']",[14 21 20],['backEndList']
+362,1362,['Node.js'],[21],['backEndList']
+363,1363,['Public Speaking'],[14],"['backEndList', 'politicalList']"
+364,1364,['Javascript'],[12],['frontEndList']
+365,1365,[],[],['backEndList']
+366,1366,"['Node.js', 'Django', 'Ruby on Rails']",[27 17 23],"['mathsList', 'backEndList']"
+367,1367,['Trigonometry'],[24],['mathsList']
+368,1368,"['Data Science', 'Machine Learning', 'Data Structures']",[27 16 17],['programList']
+369,1369,"['Machine Learning', 'Data Structures', 'Data Structures']",[22 26 10],['programList']
+370,1370,"['Node.js', 'Django']",[15 19],['backEndList']
+371,1371,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[21 15 22 24 15],"['politicalList', 'englishList']"
+372,1372,"['Python: Introduction', 'Data Science']",[23 24],['programList']
+373,1373,['Vocabulary'],[18],"['politicalList', 'englishList']"
+374,1374,"['English Expressions', 'Python: Introduction']",[15 11],"['programList', 'englishList']"
+375,1375,"['Vocabulary', 'Speech']",[22 27],['englishList']
+376,1376,[],[],['frontEndList']
+377,1377,"['pHp', 'Political Science', 'Human Rights']",[13 21 13],"['backEndList', 'politicalList']"
+378,1378,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures', 'Javascript', 'React.js', 'jQuery']",[16 29 22 28 21 14 17],"['programList', 'frontEndList']"
+379,1379,"['React.js', 'jQuery']",[24 16],"['frontEndList', 'politicalList']"
+380,1380,"['Vocabulary', 'Speech', 'English Expressions']",[12 21 18],"['backEndList', 'englishList']"
+381,1381,[],[],['frontEndList']
+382,1382,['Ruby on Rails'],[16],"['programList', 'backEndList']"
+383,1383,"['Human Rights', 'Inverse Trignonometry']",[17 27],"['mathsList', 'politicalList']"
+384,1384,['Trigonometry'],[27],['mathsList']
+385,1385,"['jQuery', 'Python: Introduction', 'Data Science']",[19 19 16],"['programList', 'frontEndList']"
+386,1386,[],[],['programList']
+387,1387,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'jQuery']",[27 22 28 19 22],"['backEndList', 'frontEndList']"
+388,1388,['Trigonometry'],[16],['mathsList']
+389,1389,[],[],['mathsList']
+390,1390,"['jQuery', 'Trigonometry']",[20 10],"['mathsList', 'frontEndList']"
+391,1391,"['Machine Learning', 'Python: Introduction', 'Data Science']",[25 13 27],['programList']
+392,1392,[],[],['politicalList']
+393,1393,"['Public Speaking', 'Political Science']",[19 16],['politicalList']
+394,1394,"['HTML,CSS', 'Javascript', 'React.js', 'Literature', 'Grammar', 'Vocabulary']",[17 16 18 29 10 19],"['frontEndList', 'englishList']"
+395,1395,"['Ruby on Rails', 'pHp']",[28 13],['backEndList']
+396,1396,"['Javascript', 'React.js', 'jQuery']",[27 14 27],['frontEndList']
 397,1397,[],[],['frontEndList']
-398,1398,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[13 15 24 23],['backEndList']
-399,1399,"['Speech', 'Node.js', 'Django', 'Ruby on Rails', 'pHp']",[27 25 15 23 10],"['englishList', 'backEndList']"
-400,1400,"['Python: Introduction', 'Data Science']",[24 21],['programList']
-401,1401,"['Data Science', 'Machine Learning', 'Data Structures']",[22 12 13],['programList']
-402,1402,['Ruby on Rails'],[19],['backEndList']
-403,1403,['Public Speaking'],[15],['politicalList']
-404,1404,"['Human Rights', 'Node.js']",[21 21],"['politicalList', 'backEndList']"
-405,1405,['Public Speaking'],[13],['politicalList']
-406,1406,['Human Rights'],[11],['politicalList']
-407,1407,['Ruby on Rails'],[24],['backEndList']
-408,1408,"['Ruby on Rails', 'pHp']",[13 20],['backEndList']
-409,1409,"['jQuery', 'Inverse Trignonometry']",[16 11],"['frontEndList', 'mathsList']"
-410,1410,[],[],['programList']
-411,1411,[],[],['mathsList']
-412,1412,"['HTML,CSS', 'Javascript', 'React.js']",[15 16 16],['frontEndList']
-413,1413,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[27 21 14 20],"['politicalList', 'programList']"
-414,1414,['pHp'],[20],['backEndList']
-415,1415,['Inverse Trignonometry'],[29],['mathsList']
-416,1416,['English Expressions'],[25],"['englishList', 'backEndList']"
-417,1417,[],[],['mathsList']
-418,1418,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[28 14 29 21],['frontEndList']
-419,1419,"['pHp', 'Literature', 'Grammar', 'Vocabulary']",[18 21 24 25],"['englishList', 'backEndList']"
-420,1420,"['Django', 'Ruby on Rails', 'pHp', 'Javascript']",[28 11 24 15],"['frontEndList', 'backEndList']"
-421,1421,['Speech'],[25],['englishList']
-422,1422,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'Trigonometry']",[16 18 24 12 11 10],"['englishList', 'mathsList']"
-423,1423,"['Speech', 'English Expressions']",[27 18],['englishList']
-424,1424,['Literature'],[14],"['englishList', 'frontEndList']"
-425,1425,[],[],['mathsList']
-426,1426,[],[],['englishList']
-427,1427,"['Vocabulary', 'Speech']",[14 21],['englishList']
-428,1428,"['Vocabulary', 'Speech', 'English Expressions']",[20 16 17],['englishList']
-429,1429,"['Vocabulary', 'Speech', 'Inverse Trignonometry']",[27 16 12],"['englishList', 'mathsList']"
-430,1430,[],[],['programList']
-431,1431,"['Political Science', 'Human Rights']",[10 15],"['englishList', 'politicalList']"
-432,1432,['React.js'],[18],['frontEndList']
-433,1433,['Inverse Trignonometry'],[12],"['frontEndList', 'mathsList']"
-434,1434,"['Speech', 'English Expressions']",[12 11],"['englishList', 'mathsList']"
-435,1435,[],[],['politicalList']
-436,1436,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery', 'Python: Introduction']",[20 20 29 15 27],"['frontEndList', 'programList']"
-437,1437,"['Speech', 'English Expressions']",[28 15],"['englishList', 'mathsList']"
-438,1438,"['Data Science', 'Machine Learning', 'Data Science', 'Machine Learning', 'Data Structures']",[16 15 22 14 19],['programList']
-439,1439,"['Vocabulary', 'Speech']",[29 15],['englishList']
-440,1440,"['Public Speaking', 'Political Science', 'Human Rights']",[24 20 28],['politicalList']
-441,1441,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[26 13 10 15],['frontEndList']
-442,1442,[],[],['politicalList']
-443,1443,"['Trigonometry', 'Inverse Trignonometry']",[28 17],['mathsList']
-444,1444,"['Javascript', 'React.js', 'jQuery', 'Public Speaking', 'Political Science']",[24 27 15 20 17],"['politicalList', 'frontEndList']"
-445,1445,"['Literature', 'Grammar', 'Vocabulary', 'Trigonometry', 'Inverse Trignonometry']",[15 26 11 27 22],"['englishList', 'mathsList']"
-446,1446,"['Inverse Trignonometry', 'Human Rights']",[28 19],"['politicalList', 'mathsList']"
-447,1447,['Public Speaking'],[10],['politicalList']
-448,1448,"['Public Speaking', 'Political Science']",[21 15],['politicalList']
-449,1449,"['Literature', 'Grammar', 'Vocabulary']",[16 15 18],['englishList']
-450,1450,"['Human Rights', 'Public Speaking']",[13 16],['politicalList']
-451,1451,['Trigonometry'],[19],['mathsList']
-452,1452,['Data Structures'],[26],['programList']
-453,1453,[],[],['backEndList']
-454,1454,"['Javascript', 'React.js', 'jQuery']",[28 10 23],['frontEndList']
-455,1455,"['Python: Introduction', 'Human Rights']",[17 15],"['politicalList', 'programList']"
-456,1456,['Data Structures'],[22],"['mathsList', 'programList']"
-457,1457,"['Political Science', 'Human Rights', 'Trigonometry', 'Inverse Trignonometry']",[17 16 29 13],"['politicalList', 'mathsList']"
-458,1458,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[25 10 18 23],"['politicalList', 'frontEndList']"
-459,1459,['Inverse Trignonometry'],[24],['mathsList']
-460,1460,"['Machine Learning', 'Data Structures', 'HTML,CSS']",[22 17 19],"['frontEndList', 'programList']"
-461,1461,"['Public Speaking', 'Political Science', 'Human Rights']",[27 24 28],['politicalList']
-462,1462,[],[],['backEndList']
-463,1463,"['Inverse Trignonometry', 'Inverse Trignonometry']",[12 13],['mathsList']
-464,1464,"['Django', 'Ruby on Rails']",[14 15],"['frontEndList', 'backEndList']"
-465,1465,"['Public Speaking', 'Political Science', 'Human Rights', 'Django']",[14 12 10 27],"['politicalList', 'backEndList']"
-466,1466,[],[],['backEndList']
-467,1467,['Django'],[14],['backEndList']
-468,1468,['jQuery'],[14],['frontEndList']
-469,1469,['Political Science'],[15],['politicalList']
-470,1470,"['Political Science', 'Human Rights']",[19 26],"['politicalList', 'frontEndList']"
-471,1471,"['jQuery', 'Trigonometry']",[15 22],"['frontEndList', 'mathsList']"
-472,1472,['Trigonometry'],[10],['mathsList']
-473,1473,"['Trigonometry', 'Inverse Trignonometry']",[15 27],['mathsList']
-474,1474,"['Trigonometry', 'HTML,CSS', 'Javascript', 'React.js']",[28 25 11 16],"['frontEndList', 'mathsList']"
-475,1475,"['Machine Learning', 'Data Structures']",[17 20],['programList']
-476,1476,"['Node.js', 'Public Speaking', 'Political Science']",[25 27 18],"['politicalList', 'backEndList']"
-477,1477,"['Django', 'Ruby on Rails', 'pHp']",[10 26 23],['backEndList']
-478,1478,[],[],['backEndList']
-479,1479,['Public Speaking'],[18],['politicalList']
-480,1480,"['Grammar', 'Vocabulary', 'Speech']",[23 11 21],"['englishList', 'programList']"
-481,1481,"['Human Rights', 'Public Speaking', 'Political Science', 'Human Rights']",[25 12 14 10],['politicalList']
-482,1482,"['Machine Learning', 'Data Structures']",[29 23],['programList']
-483,1483,['Public Speaking'],[29],['politicalList']
-484,1484,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Trigonometry', 'Inverse Trignonometry']",[10 22 25 11 11],"['mathsList', 'programList']"
-485,1485,"['Ruby on Rails', 'pHp']",[10 26],['backEndList']
-486,1486,"['Political Science', 'Human Rights']",[17 12],"['politicalList', 'mathsList']"
-487,1487,['Data Science'],[22],['programList']
-488,1488,['jQuery'],[11],['frontEndList']
-489,1489,"['Python: Introduction', 'Data Science', 'Machine Learning']",[14 26 24],['programList']
-490,1490,"['Javascript', 'React.js', 'jQuery']",[21 19 12],['frontEndList']
-491,1491,"['Trigonometry', 'Trigonometry']",[17 23],['mathsList']
-492,1492,['Public Speaking'],[27],['politicalList']
-493,1493,"['Node.js', 'Django', 'Ruby on Rails']",[22 21 22],"['frontEndList', 'backEndList']"
-494,1494,['Speech'],[29],['englishList']
-495,1495,[],[],['backEndList']
-496,1496,"['Django', 'Ruby on Rails']",[25 13],"['frontEndList', 'backEndList']"
-497,1497,[],[],['backEndList']
-498,1498,"['Machine Learning', 'Data Structures']",[14 23],['programList']
-499,1499,"['React.js', 'Literature']",[17 13],"['englishList', 'frontEndList']"
-500,1500,"['Python: Introduction', 'Data Science', 'Machine Learning']",[21 23 12],['programList']
-501,1501,[],[],['programList']
-502,1502,[],[],['programList']
-503,1503,['Data Structures'],[10],['programList']
-504,1504,"['HTML,CSS', 'Javascript', 'React.js']",[11 16 13],['frontEndList']
-505,1505,['pHp'],[29],"['backEndList', 'programList']"
-506,1506,[],[],['englishList']
-507,1507,"['React.js', 'jQuery']",[13 19],['frontEndList']
-508,1508,"['Literature', 'Grammar', 'Vocabulary']",[10 14 16],['englishList']
-509,1509,['React.js'],[17],['frontEndList']
-510,1510,['Javascript'],[12],"['politicalList', 'frontEndList']"
-511,1511,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[28 25 20 25],"['frontEndList', 'programList']"
-512,1512,"['Public Speaking', 'Political Science', 'Human Rights']",[11 17 19],['politicalList']
-513,1513,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[17 17 12 28],['programList']
-514,1514,['Trigonometry'],[14],['mathsList']
-515,1515,['Inverse Trignonometry'],[27],"['backEndList', 'mathsList']"
-516,1516,['Inverse Trignonometry'],[20],['mathsList']
-517,1517,"['Ruby on Rails', 'pHp']",[28 12],['backEndList']
-518,1518,"['Data Science', 'Machine Learning', 'Speech']",[11 19 29],"['englishList', 'programList']"
-519,1519,['Human Rights'],[24],['politicalList']
-520,1520,['Public Speaking'],[18],"['politicalList', 'frontEndList']"
-521,1521,"['Django', 'Ruby on Rails', 'pHp']",[12 12 21],"['politicalList', 'backEndList']"
-522,1522,"['Data Structures', 'Trigonometry']",[22 22],"['mathsList', 'programList']"
-523,1523,['Public Speaking'],[19],['politicalList']
-524,1524,"['Data Science', 'Machine Learning', 'Data Structures']",[26 14 26],['programList']
-525,1525,"['React.js', 'jQuery', 'jQuery']",[14 12 20],['frontEndList']
-526,1526,"['Data Science', 'Machine Learning', 'Data Science', 'Machine Learning']",[20 25 11 24],['programList']
-527,1527,['Django'],[25],['backEndList']
-528,1528,['Political Science'],[16],['politicalList']
-529,1529,"['Trigonometry', 'Trigonometry', 'Inverse Trignonometry']",[27 23 11],['mathsList']
-530,1530,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures', 'Data Science']",[12 10 12 10 11],['programList']
-531,1531,"['HTML,CSS', 'Javascript', 'React.js', 'Javascript', 'React.js']",[12 25 15 14 18],['frontEndList']
-532,1532,['Grammar'],[17],['englishList']
-533,1533,"['Literature', 'Grammar']",[28 28],['englishList']
-534,1534,['Public Speaking'],[17],['politicalList']
-535,1535,[],[],['frontEndList']
-536,1536,['Inverse Trignonometry'],[19],['mathsList']
-537,1537,"['Political Science', 'Human Rights']",[29 19],['politicalList']
-538,1538,"['Django', 'Ruby on Rails', 'pHp', 'Human Rights']",[15 19 21 26],"['politicalList', 'backEndList']"
-539,1539,[],[],['programList']
-540,1540,[],[],['mathsList']
-541,1541,"['Node.js', 'Data Science']",[18 16],"['backEndList', 'programList']"
-542,1542,"['jQuery', 'React.js', 'jQuery']",[29 14 19],['frontEndList']
-543,1543,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[16 21 11 16 11 22 19 25],"['englishList', 'frontEndList']"
-544,1544,[],[],"['mathsList', 'programList']"
-545,1545,"['Trigonometry', 'Inverse Trignonometry', 'Node.js']",[24 13 29],"['backEndList', 'mathsList']"
-546,1546,[],[],['politicalList']
-547,1547,"['Literature', 'Grammar', 'HTML,CSS', 'Javascript']",[26 15 12 19],"['englishList', 'frontEndList']"
-548,1548,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[12 25 21 17],['programList']
-549,1549,"['HTML,CSS']",[15],"['frontEndList', 'programList']"
-550,1550,['Trigonometry'],[12],['mathsList']
-551,1551,"['Political Science', 'Public Speaking', 'Political Science', 'Human Rights']",[12 24 26 10],['politicalList']
-552,1552,"['Public Speaking', 'Political Science']",[22 19],['politicalList']
-553,1553,['Grammar'],[11],['englishList']
-554,1554,"['Node.js', 'Django', 'Ruby on Rails']",[13 26 18],"['backEndList', 'mathsList']"
-555,1555,[],[],['frontEndList']
-556,1556,"['Literature', 'Grammar', 'Vocabulary', 'Django', 'Ruby on Rails', 'pHp']",[23 18 13 28 17 27],"['englishList', 'backEndList']"
-557,1557,"['Trigonometry', 'Inverse Trignonometry']",[21 18],['mathsList']
-558,1558,"['Political Science', 'Human Rights']",[25 16],['politicalList']
-559,1559,"['Data Science', 'Machine Learning', 'Human Rights']",[24 25 12],"['politicalList', 'programList']"
-560,1560,"['Node.js', 'Django']",[18 26],['backEndList']
-561,1561,"['HTML,CSS']",[28],['frontEndList']
-562,1562,"['Machine Learning', 'Data Structures']",[22 12],['programList']
-563,1563,"['Trigonometry', 'Inverse Trignonometry']",[21 19],"['frontEndList', 'mathsList']"
-564,1564,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'Python: Introduction', 'Data Science', 'Machine Learning']",[22 22 20 20 14 11 13 11],"['englishList', 'programList']"
-565,1565,"['HTML,CSS', 'Javascript', 'React.js']",[14 19 12],"['frontEndList', 'mathsList']"
-566,1566,['pHp'],[28],"['backEndList', 'mathsList']"
-567,1567,"['Django', 'Data Structures']",[20 14],"['backEndList', 'programList']"
-568,1568,"['Political Science', 'Javascript', 'React.js', 'jQuery']",[20 15 19 19],"['politicalList', 'frontEndList']"
-569,1569,"['Javascript', 'React.js']",[29 25],['frontEndList']
-570,1570,[],[],['frontEndList']
-571,1571,"['Human Rights', 'HTML,CSS', 'Javascript']",[12 19 18],"['politicalList', 'frontEndList']"
-572,1572,"['Grammar', 'Vocabulary']",[19 29],['englishList']
-573,1573,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[18 23 18 23],['englishList']
-574,1574,[],[],['englishList']
-575,1575,"['Python: Introduction', 'Data Science', 'Machine Learning']",[14 19 21],"['englishList', 'programList']"
-576,1576,"['Ruby on Rails', 'React.js', 'jQuery']",[29 16 29],"['frontEndList', 'backEndList']"
-577,1577,[],[],['programList']
-578,1578,"['Ruby on Rails', 'Django', 'Ruby on Rails']",[29 20 27],['backEndList']
-579,1579,[],[],['politicalList']
-580,1580,"['HTML,CSS', 'Javascript', 'React.js']",[11 19 12],['frontEndList']
-581,1581,"['HTML,CSS', 'Javascript']",[16 25],"['frontEndList', 'mathsList']"
-582,1582,"['React.js', 'jQuery', 'Trigonometry']",[12 14 18],"['frontEndList', 'mathsList']"
-583,1583,"['React.js', 'jQuery', 'React.js']",[17 18 24],['frontEndList']
-584,1584,[],[],['politicalList']
-585,1585,"['Public Speaking', 'Political Science', 'Speech']",[11 24 15],"['englishList', 'politicalList']"
-586,1586,['Inverse Trignonometry'],[29],"['englishList', 'mathsList']"
-587,1587,['Public Speaking'],[14],"['englishList', 'politicalList']"
-588,1588,['Vocabulary'],[21],['englishList']
-589,1589,"['Literature', 'Grammar', 'Vocabulary']",[26 18 15],['englishList']
-590,1590,"['Public Speaking', 'Political Science', 'Human Rights', 'Data Science', 'Machine Learning', 'Data Structures']",[25 27 15 13 15 19],"['politicalList', 'programList']"
-591,1591,[],[],['politicalList']
-592,1592,"['Speech', 'English Expressions', 'Inverse Trignonometry']",[16 17 21],"['englishList', 'mathsList']"
-593,1593,['Grammar'],[19],['englishList']
-594,1594,"['Data Science', 'Machine Learning', 'Data Structures', 'Ruby on Rails']",[26 24 13 17],"['backEndList', 'programList']"
-595,1595,"['Grammar', 'Vocabulary', 'Speech', 'Grammar']",[16 24 26 13],['englishList']
-596,1596,['Trigonometry'],[22],"['mathsList', 'programList']"
-597,1597,['Javascript'],[27],['frontEndList']
-598,1598,"['Grammar', 'Vocabulary', 'Speech', 'Grammar', 'Vocabulary', 'Speech']",[29 23 25 16 20 25],['englishList']
-599,1599,"['Machine Learning', 'Grammar', 'Vocabulary']",[27 28 10],"['englishList', 'programList']"
-600,1600,"['Inverse Trignonometry', 'Python: Introduction', 'Data Science']",[23 12 24],"['mathsList', 'programList']"
-601,1601,"['jQuery', 'Inverse Trignonometry']",[15 16],"['frontEndList', 'mathsList']"
-602,1602,"['Javascript', 'React.js', 'jQuery', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[15 21 18 11 21 20 13],['frontEndList']
-603,1603,['jQuery'],[13],['frontEndList']
-604,1604,['Trigonometry'],[24],"['englishList', 'mathsList']"
-605,1605,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[20 20 28 15],"['backEndList', 'mathsList']"
-606,1606,"['Public Speaking', 'Political Science', 'Inverse Trignonometry']",[23 22 21],"['politicalList', 'mathsList']"
-607,1607,['Javascript'],[17],['frontEndList']
-608,1608,"['Trigonometry', 'Javascript']",[21 21],"['frontEndList', 'mathsList']"
-609,1609,['jQuery'],[15],['frontEndList']
-610,1610,[],[],['politicalList']
-611,1611,"['Trigonometry', 'Vocabulary']",[10 15],"['englishList', 'mathsList']"
-612,1612,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[14 16 19 25],['programList']
-613,1613,['Political Science'],[14],['politicalList']
-614,1614,['Data Science'],[26],['programList']
-615,1615,"['Political Science', 'Human Rights']",[10 28],['politicalList']
-616,1616,['Human Rights'],[14],['politicalList']
-617,1617,"['Trigonometry', 'Inverse Trignonometry']",[11 21],['mathsList']
-618,1618,"['Trigonometry', 'Inverse Trignonometry']",[19 15],['mathsList']
-619,1619,"['Python: Introduction', 'Data Science']",[20 20],['programList']
-620,1620,[],[],"['politicalList', 'backEndList']"
-621,1621,['Human Rights'],[16],['politicalList']
-622,1622,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'HTML,CSS']",[23 12 14 29 17 22],"['englishList', 'frontEndList']"
-623,1623,"['Grammar', 'Vocabulary', 'Speech']",[19 10 24],['englishList']
-624,1624,"['Public Speaking', 'Political Science', 'Human Rights', 'Public Speaking', 'Political Science', 'Human Rights']",[15 11 12 27 15 22],['politicalList']
-625,1625,"['Political Science', 'Human Rights', 'Ruby on Rails', 'pHp']",[23 21 25 23],"['politicalList', 'backEndList']"
-626,1626,"['Literature', 'Grammar', 'Vocabulary']",[15 18 29],['englishList']
-627,1627,"['Political Science', 'Ruby on Rails', 'pHp']",[24 10 29],"['politicalList', 'backEndList']"
-628,1628,"['Django', 'Ruby on Rails']",[25 11],['backEndList']
-629,1629,"['Ruby on Rails', 'pHp']",[10 27],"['backEndList', 'mathsList']"
-630,1630,"['Machine Learning', 'Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[14 18 20 23 26 12],"['englishList', 'programList']"
-631,1631,"['Speech', 'English Expressions', 'Machine Learning']",[21 25 28],"['englishList', 'programList']"
-632,1632,"['Javascript', 'React.js', 'jQuery', 'Literature', 'Grammar', 'Vocabulary']",[13 23 29 14 25 18],"['englishList', 'frontEndList']"
-633,1633,"['Speech', 'English Expressions']",[27 17],['englishList']
-634,1634,[],[],['politicalList']
-635,1635,"['Public Speaking', 'Public Speaking', 'Political Science', 'Human Rights']",[16 16 14 25],['politicalList']
-636,1636,"['Trigonometry', 'Inverse Trignonometry']",[17 16],['mathsList']
-637,1637,"['Node.js', 'Django', 'Ruby on Rails']",[22 23 12],"['backEndList', 'mathsList']"
-638,1638,"['Grammar', 'Vocabulary', 'Machine Learning', 'Data Structures']",[27 24 15 22],"['englishList', 'programList']"
-639,1639,"['Vocabulary', 'Speech']",[22 20],['englishList']
-640,1640,"['Grammar', 'Vocabulary']",[14 23],['englishList']
-641,1641,"['Vocabulary', 'Speech']",[21 11],['englishList']
-642,1642,"['Node.js', 'Vocabulary', 'Speech']",[17 13 20],"['englishList', 'backEndList']"
-643,1643,[],[],['mathsList']
-644,1644,"['Vocabulary', 'pHp']",[18 25],"['englishList', 'backEndList']"
-645,1645,"['Data Structures', 'Javascript', 'React.js', 'jQuery']",[11 28 29 12],"['frontEndList', 'programList']"
+398,1398,"['Django', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[15 13 15 29 26],"['backEndList', 'englishList']"
+399,1399,['Political Science'],[19],"['mathsList', 'politicalList']"
+400,1400,"['Trigonometry', 'Inverse Trignonometry']",[18 23],['mathsList']
+401,1401,"['Machine Learning', 'Data Structures', 'Python: Introduction']",[27 15 12],['programList']
+402,1402,"['Grammar', 'Vocabulary', 'Speech']",[17 27 17],['englishList']
+403,1403,[],[],['mathsList']
+404,1404,"['Python: Introduction', 'Trigonometry', 'Inverse Trignonometry']",[27 29 11],"['mathsList', 'programList']"
+405,1405,"['HTML,CSS', 'Javascript']",[29 24],['frontEndList']
+406,1406,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[20 28 28 13],['frontEndList']
+407,1407,"['HTML,CSS', 'Javascript', 'Inverse Trignonometry']",[10 12 22],"['mathsList', 'frontEndList']"
+408,1408,"['Public Speaking', 'Political Science', 'Human Rights', 'React.js', 'jQuery']",[28 21 21 21 28],"['frontEndList', 'politicalList']"
+409,1409,[],[],['mathsList']
+410,1410,[],[],['mathsList']
+411,1411,['React.js'],[19],['frontEndList']
+412,1412,[],[],"['politicalList', 'englishList']"
+413,1413,"['Node.js', 'Inverse Trignonometry']",[28 16],"['mathsList', 'backEndList']"
+414,1414,"['Python: Introduction', 'Data Science', 'Machine Learning']",[12 26 21],['programList']
+415,1415,"['Public Speaking', 'Political Science', 'Human Rights']",[29 29 22],['politicalList']
+416,1416,['Data Science'],[11],['programList']
+417,1417,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Javascript', 'React.js']",[26 22 14 11 10 17],"['backEndList', 'frontEndList']"
+418,1418,['Data Structures'],[19],['programList']
+419,1419,"['Vocabulary', 'Speech', 'Machine Learning', 'Data Structures']",[13 25 11 22],"['programList', 'englishList']"
+420,1420,['Data Science'],[17],"['programList', 'backEndList']"
+421,1421,"['Data Science', 'Machine Learning', 'Data Structures', 'Python: Introduction', 'Data Science']",[17 28 17 23 25],['programList']
+422,1422,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[25 29 23 24],['backEndList']
+423,1423,[],[],['mathsList']
+424,1424,"['Ruby on Rails', 'Trigonometry']",[24 19],"['mathsList', 'backEndList']"
+425,1425,"['Machine Learning', 'Data Structures']",[15 17],['programList']
+426,1426,[],[],['mathsList']
+427,1427,"['Data Science', 'Machine Learning', 'Data Structures', 'Public Speaking', 'Political Science']",[10 16 15 13 21],"['programList', 'politicalList']"
+428,1428,"['Trigonometry', 'Political Science', 'Human Rights']",[27 25 26],"['mathsList', 'politicalList']"
+429,1429,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[18 10 12 20],['frontEndList']
+430,1430,"['Vocabulary', 'Speech']",[12 11],"['mathsList', 'englishList']"
+431,1431,"['Javascript', 'React.js', 'Trigonometry', 'Inverse Trignonometry']",[20 21 22 18],"['mathsList', 'frontEndList']"
+432,1432,['Human Rights'],[20],['politicalList']
+433,1433,"['Django', 'Ruby on Rails', 'pHp', 'Node.js', 'Django', 'Ruby on Rails', 'pHp']",[14 15 12 19 18 26 12],['backEndList']
+434,1434,[],[],['politicalList']
+435,1435,[],[],"['programList', 'politicalList']"
+436,1436,"['HTML,CSS']",[14],"['mathsList', 'frontEndList']"
+437,1437,[],[],['mathsList']
+438,1438,"['Vocabulary', 'Speech']",[14 20],['englishList']
+439,1439,['React.js'],[12],['frontEndList']
+440,1440,['Django'],[10],['backEndList']
+441,1441,"['Political Science', 'Public Speaking', 'Political Science', 'Human Rights']",[17 13 18 26],['politicalList']
+442,1442,[],[],['programList']
+443,1443,[],[],['politicalList']
+444,1444,"['Trigonometry', 'HTML,CSS']",[12 16],"['mathsList', 'frontEndList']"
+445,1445,[],[],['politicalList']
+446,1446,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[14 24 12 13],['englishList']
+447,1447,"['Django', 'Ruby on Rails']",[27 21],['backEndList']
+448,1448,['Trigonometry'],[23],"['mathsList', 'frontEndList']"
+449,1449,"['Inverse Trignonometry', 'jQuery']",[29 24],"['mathsList', 'frontEndList']"
+450,1450,[],[],['mathsList']
+451,1451,[],[],['programList']
+452,1452,"['Django', 'React.js', 'jQuery']",[12 13 11],"['backEndList', 'frontEndList']"
+453,1453,['Political Science'],[25],['politicalList']
+454,1454,"['Javascript', 'React.js', 'Trigonometry']",[10 15 28],"['mathsList', 'frontEndList']"
+455,1455,['English Expressions'],[11],"['programList', 'englishList']"
+456,1456,[],[],['programList']
+457,1457,"['Javascript', 'Node.js', 'Django', 'Ruby on Rails']",[11 19 10 21],"['backEndList', 'frontEndList']"
+458,1458,"['Django', 'Ruby on Rails']",[16 10],"['mathsList', 'backEndList']"
+459,1459,[],[],"['programList', 'mathsList']"
+460,1460,"['Public Speaking', 'Political Science', 'Human Rights', 'Trigonometry', 'Inverse Trignonometry']",[25 13 19 16 12],"['mathsList', 'politicalList']"
+461,1461,"['Political Science', 'Human Rights']",[12 18],['politicalList']
+462,1462,"['Python: Introduction', 'Data Science']",[17 27],['programList']
+463,1463,"['Trigonometry', 'Inverse Trignonometry', 'Political Science', 'Human Rights']",[22 16 11 19],"['mathsList', 'politicalList']"
+464,1464,"['Trigonometry', 'Inverse Trignonometry']",[22 28],"['mathsList', 'englishList']"
+465,1465,['Political Science'],[20],['politicalList']
+466,1466,['Python: Introduction'],[27],"['programList', 'politicalList']"
+467,1467,[],[],['politicalList']
+468,1468,['Javascript'],[24],['frontEndList']
+469,1469,"['Public Speaking', 'Political Science']",[16 15],['politicalList']
+470,1470,"['Public Speaking', 'Political Science', 'Human Rights']",[18 18 25],['politicalList']
+471,1471,"['Machine Learning', 'Data Structures', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[19 21 26 23 29 12],"['programList', 'frontEndList']"
+472,1472,['Machine Learning'],[22],"['mathsList', 'programList']"
+473,1473,['Human Rights'],[24],['politicalList']
+474,1474,[],[],['programList']
+475,1475,['Javascript'],[17],['frontEndList']
+476,1476,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[16 17 20 19],['englishList']
+477,1477,"['Javascript', 'React.js', 'jQuery']",[10 15 24],['frontEndList']
+478,1478,"['Literature', 'Speech']",[27 28],['englishList']
+479,1479,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[18 25 17 12],"['programList', 'politicalList']"
+480,1480,[],[],['politicalList']
+481,1481,['Literature'],[11],['englishList']
+482,1482,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[16 17 15 27],"['mathsList', 'englishList']"
+483,1483,['Trigonometry'],[15],['mathsList']
+484,1484,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[18 29 23 13],['programList']
+485,1485,['Inverse Trignonometry'],[27],['mathsList']
+486,1486,[],[],['mathsList']
+487,1487,"['Public Speaking', 'Political Science', 'Python: Introduction', 'Data Science']",[19 19 28 15],"['programList', 'politicalList']"
+488,1488,"['Trigonometry', 'Grammar', 'Vocabulary', 'Speech']",[23 11 17 15],"['mathsList', 'englishList']"
+489,1489,['Node.js'],[20],['backEndList']
+490,1490,['Node.js'],[29],"['programList', 'backEndList']"
+491,1491,['Public Speaking'],[16],['politicalList']
+492,1492,"['Machine Learning', 'Political Science', 'Human Rights']",[27 26 16],"['programList', 'politicalList']"
+493,1493,"['Data Structures', 'Public Speaking', 'Political Science', 'Human Rights']",[28 19 27 20],"['programList', 'politicalList']"
+494,1494,[],[],['politicalList']
+495,1495,"['Literature', 'Grammar']",[24 11],"['frontEndList', 'englishList']"
+496,1496,"['Django', 'Ruby on Rails']",[12 11],['backEndList']
+497,1497,"['Speech', 'English Expressions']",[28 24],['englishList']
+498,1498,"['HTML,CSS', 'Javascript', 'React.js']",[29 16 29],"['mathsList', 'frontEndList']"
+499,1499,"['Trigonometry', 'Inverse Trignonometry', 'Javascript', 'React.js']",[17 28 12 14],"['mathsList', 'frontEndList']"
+500,1500,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[28 20 22 18],['programList']
+501,1501,"['HTML,CSS', 'Javascript']",[12 24],['frontEndList']
+502,1502,"['Trigonometry', 'Inverse Trignonometry', 'Django', 'Ruby on Rails', 'pHp']",[22 11 23 20 25],"['mathsList', 'backEndList']"
+503,1503,['Inverse Trignonometry'],[10],['mathsList']
+504,1504,[],[],['mathsList']
+505,1505,"['Public Speaking', 'Political Science', 'Human Rights', 'Vocabulary', 'Speech']",[24 24 18 20 29],"['englishList', 'politicalList']"
+506,1506,"['Grammar', 'Vocabulary', 'Speech']",[15 28 12],['englishList']
+507,1507,"['Data Science', 'Machine Learning', 'Data Structures']",[11 23 29],"['programList', 'politicalList']"
+508,1508,['pHp'],[24],['backEndList']
+509,1509,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[11 15 22 15],['englishList']
+510,1510,['Inverse Trignonometry'],[10],['mathsList']
+511,1511,['Literature'],[29],['englishList']
+512,1512,"['Trigonometry', 'Inverse Trignonometry', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[15 14 10 12 15 12],"['mathsList', 'englishList']"
+513,1513,"['Literature', 'Javascript', 'React.js']",[14 14 29],"['frontEndList', 'englishList']"
+514,1514,"['Node.js', 'Django', 'Python: Introduction', 'Data Science']",[25 25 10 29],"['programList', 'backEndList']"
+515,1515,"['Django', 'Ruby on Rails']",[16 14],['backEndList']
+516,1516,['Public Speaking'],[16],['politicalList']
+517,1517,"['React.js', 'Political Science']",[18 26],"['frontEndList', 'politicalList']"
+518,1518,"['React.js', 'jQuery']",[29 24],['frontEndList']
+519,1519,"['jQuery', 'Public Speaking', 'Political Science', 'Human Rights']",[19 20 14 11],"['frontEndList', 'politicalList']"
+520,1520,"['Public Speaking', 'Political Science', 'Human Rights']",[27 10 17],['politicalList']
+521,1521,"['Node.js', 'Django', 'Ruby on Rails']",[20 29 22],['backEndList']
+522,1522,"['Inverse Trignonometry', 'Python: Introduction']",[29 19],"['programList', 'mathsList']"
+523,1523,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[12 22 13 23],['programList']
+524,1524,"['Trigonometry', 'Inverse Trignonometry']",[11 18],"['mathsList', 'backEndList']"
+525,1525,['React.js'],[21],['frontEndList']
+526,1526,"['Django', 'Ruby on Rails']",[19 16],['backEndList']
+527,1527,['Node.js'],[29],['backEndList']
+528,1528,"['Trigonometry', 'React.js', 'jQuery']",[25 28 19],"['mathsList', 'frontEndList']"
+529,1529,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery', 'Inverse Trignonometry']",[21 22 20 26 23],"['mathsList', 'frontEndList']"
+530,1530,['Node.js'],[12],['backEndList']
+531,1531,['Human Rights'],[15],['politicalList']
+532,1532,"['Literature', 'Grammar']",[25 13],['englishList']
+533,1533,"['Trigonometry', 'Data Structures']",[23 10],"['programList', 'mathsList']"
+534,1534,['Public Speaking'],[24],['politicalList']
+535,1535,"['Public Speaking', 'Political Science', 'Human Rights', 'Human Rights']",[14 11 23 22],['politicalList']
+536,1536,"['React.js', 'jQuery', 'Inverse Trignonometry']",[19 22 19],"['mathsList', 'frontEndList']"
+537,1537,['Javascript'],[15],['frontEndList']
+538,1538,"['Political Science', 'Human Rights', 'Inverse Trignonometry']",[13 27 23],"['mathsList', 'politicalList']"
+539,1539,[],[],['politicalList']
+540,1540,"['Public Speaking', 'Political Science', 'Human Rights']",[11 15 22],['politicalList']
+541,1541,"['Speech', 'English Expressions']",[16 25],['englishList']
+542,1542,"['HTML,CSS', 'Javascript']",[22 15],['frontEndList']
+543,1543,"['Javascript', 'React.js', 'jQuery', 'React.js', 'jQuery']",[29 18 10 27 23],['frontEndList']
+544,1544,"['Public Speaking', 'Political Science', 'Human Rights', 'Ruby on Rails', 'pHp']",[22 16 25 29 19],"['backEndList', 'politicalList']"
+545,1545,"['Literature', 'Grammar']",[26 23],"['backEndList', 'englishList']"
+546,1546,['Political Science'],[25],['politicalList']
+547,1547,"['Machine Learning', 'Data Structures']",[15 26],['programList']
+548,1548,['Django'],[18],"['programList', 'backEndList']"
+549,1549,"['Data Science', 'Machine Learning', 'Data Structures']",[29 27 21],"['mathsList', 'programList']"
+550,1550,"['Political Science', 'Trigonometry', 'Inverse Trignonometry']",[29 22 12],"['mathsList', 'politicalList']"
+551,1551,"['Literature', 'Grammar', 'Vocabulary', 'Django', 'Ruby on Rails', 'pHp']",[15 18 27 16 16 27],"['backEndList', 'englishList']"
+552,1552,[],[],['politicalList']
+553,1553,[],[],"['mathsList', 'englishList']"
+554,1554,"['Political Science', 'Human Rights', 'Inverse Trignonometry']",[14 20 24],"['mathsList', 'politicalList']"
+555,1555,['Human Rights'],[28],['politicalList']
+556,1556,"['Trigonometry', 'Inverse Trignonometry', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[27 24 29 21 16 10],"['programList', 'mathsList']"
+557,1557,[],[],['politicalList']
+558,1558,"['Django', 'Ruby on Rails', 'Python: Introduction']",[22 24 14],"['programList', 'backEndList']"
+559,1559,"['Python: Introduction', 'Data Science']",[29 19],"['programList', 'politicalList']"
+560,1560,['Grammar'],[14],"['mathsList', 'englishList']"
+561,1561,"['HTML,CSS', 'Trigonometry', 'Inverse Trignonometry']",[15 23 24],"['mathsList', 'frontEndList']"
+562,1562,['Node.js'],[12],['backEndList']
+563,1563,"['Javascript', 'React.js', 'Data Science']",[11 17 27],"['programList', 'frontEndList']"
+564,1564,"['Data Science', 'Machine Learning']",[27 15],['programList']
+565,1565,['Vocabulary'],[12],['englishList']
+566,1566,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[29 24 16 22 18 25 13 29],"['programList', 'backEndList']"
+567,1567,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'jQuery']",[29 13 16 21 27 26],"['frontEndList', 'englishList']"
+568,1568,"['Django', 'Ruby on Rails', 'pHp']",[25 19 20],['backEndList']
+569,1569,['Data Science'],[11],['programList']
+570,1570,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Literature', 'Grammar', 'Vocabulary']",[10 16 14 23 10 15 18],"['backEndList', 'englishList']"
+571,1571,"['HTML,CSS', 'Javascript']",[17 20],['frontEndList']
+572,1572,[],[],['politicalList']
+573,1573,['Trigonometry'],[13],['mathsList']
+574,1574,['React.js'],[19],"['backEndList', 'frontEndList']"
+575,1575,[],[],['politicalList']
+576,1576,"['React.js', 'jQuery']",[23 23],['frontEndList']
+577,1577,"['Vocabulary', 'Speech', 'English Expressions']",[27 12 29],['englishList']
+578,1578,['Python: Introduction'],[22],"['programList', 'englishList']"
+579,1579,['React.js'],[20],"['programList', 'frontEndList']"
+580,1580,"['Trigonometry', 'Inverse Trignonometry']",[15 23],['mathsList']
+581,1581,[],[],"['frontEndList', 'politicalList']"
+582,1582,['Trigonometry'],[10],['mathsList']
+583,1583,['Trigonometry'],[21],"['mathsList', 'frontEndList']"
+584,1584,"['Django', 'Ruby on Rails']",[28 14],['backEndList']
+585,1585,['Political Science'],[24],"['programList', 'politicalList']"
+586,1586,[],[],"['mathsList', 'politicalList']"
+587,1587,['Vocabulary'],[21],['englishList']
+588,1588,['Node.js'],[20],['backEndList']
+589,1589,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[17 14 28 23],['backEndList']
+590,1590,"['Data Science', 'Machine Learning']",[29 23],"['programList', 'politicalList']"
+591,1591,['Speech'],[11],"['backEndList', 'englishList']"
+592,1592,['Node.js'],[28],['backEndList']
+593,1593,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[18 22 22 18 10],['englishList']
+594,1594,[],[],['politicalList']
+595,1595,"['Data Science', 'Machine Learning']",[16 10],['programList']
+596,1596,"['HTML,CSS', 'Javascript', 'React.js', 'Django', 'Ruby on Rails', 'pHp']",[18 20 19 27 22 23],"['backEndList', 'frontEndList']"
+597,1597,"['React.js', 'Trigonometry', 'Inverse Trignonometry']",[12 28 17],"['mathsList', 'frontEndList']"
+598,1598,['Node.js'],[10],['backEndList']
+599,1599,[],[],['mathsList']
+600,1600,"['Trigonometry', 'Inverse Trignonometry']",[10 19],['mathsList']
+601,1601,['React.js'],[26],"['programList', 'frontEndList']"
+602,1602,"['Data Science', 'Machine Learning', 'Data Structures', 'HTML,CSS', 'Javascript']",[22 15 22 22 25],"['programList', 'frontEndList']"
+603,1603,['Machine Learning'],[20],['programList']
+604,1604,"['Political Science', 'Human Rights']",[17 29],['politicalList']
+605,1605,['Public Speaking'],[19],['politicalList']
+606,1606,"['Human Rights', 'Human Rights']",[24 29],['politicalList']
+607,1607,"['jQuery', 'Public Speaking']",[26 25],"['frontEndList', 'politicalList']"
+608,1608,"['Public Speaking', 'Political Science', 'Human Rights']",[11 26 19],['politicalList']
+609,1609,"['HTML,CSS', 'Javascript']",[17 18],['frontEndList']
+610,1610,"['Javascript', 'React.js']",[15 20],"['programList', 'frontEndList']"
+611,1611,['Inverse Trignonometry'],[10],['mathsList']
+612,1612,"['Data Structures', 'Trigonometry']",[18 15],"['mathsList', 'programList']"
+613,1613,"['Javascript', 'React.js', 'Ruby on Rails', 'pHp']",[12 13 25 19],"['backEndList', 'frontEndList']"
+614,1614,"['English Expressions', 'React.js']",[28 27],"['frontEndList', 'englishList']"
+615,1615,"['Machine Learning', 'Public Speaking', 'Political Science', 'Human Rights']",[21 20 27 27],"['programList', 'politicalList']"
+616,1616,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[24 29 17 27],['englishList']
+617,1617,[],[],['backEndList']
+618,1618,"['Machine Learning', 'Data Structures']",[29 22],"['programList', 'backEndList']"
+619,1619,['jQuery'],[28],['frontEndList']
+620,1620,['Inverse Trignonometry'],[20],['mathsList']
+621,1621,"['Political Science', 'Human Rights']",[14 13],"['mathsList', 'politicalList']"
+622,1622,"['Javascript', 'React.js']",[15 24],['frontEndList']
+623,1623,"['Vocabulary', 'Speech']",[24 28],['englishList']
+624,1624,"['Node.js', 'Literature']",[27 20],"['backEndList', 'englishList']"
+625,1625,"['Trigonometry', 'Inverse Trignonometry']",[19 21],"['mathsList', 'programList']"
+626,1626,[],[],['mathsList']
+627,1627,"['Public Speaking', 'Political Science', 'Human Rights']",[26 19 11],['politicalList']
+628,1628,[],[],['backEndList']
+629,1629,['Node.js'],[28],['backEndList']
+630,1630,"['Data Structures', 'Node.js', 'Django', 'Ruby on Rails', 'pHp']",[22 26 15 25 24],"['programList', 'backEndList']"
+631,1631,"['jQuery', 'Django', 'Ruby on Rails', 'pHp']",[23 28 17 26],"['backEndList', 'frontEndList']"
+632,1632,"['Python: Introduction', 'Data Science']",[23 12],['programList']
+633,1633,"['Node.js', 'Django', 'Ruby on Rails', 'Django', 'Ruby on Rails']",[15 28 11 21 25],['backEndList']
+634,1634,[],[],['mathsList']
+635,1635,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[20 15 22 10],['frontEndList']
+636,1636,"['Trigonometry', 'Inverse Trignonometry', 'Grammar']",[16 24 27],"['mathsList', 'englishList']"
+637,1637,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[15 11 21 29],"['backEndList', 'englishList']"
+638,1638,['Trigonometry'],[18],['mathsList']
+639,1639,"['Vocabulary', 'Speech', 'Django']",[10 20 28],"['backEndList', 'englishList']"
+640,1640,"['Trigonometry', 'Machine Learning']",[22 20],"['programList', 'mathsList']"
+641,1641,"['Python: Introduction', 'Data Science', 'Javascript', 'React.js', 'jQuery']",[18 14 11 21 18],"['programList', 'frontEndList']"
+642,1642,"['Machine Learning', 'React.js', 'jQuery']",[13 17 10],"['programList', 'frontEndList']"
+643,1643,['Inverse Trignonometry'],[19],['mathsList']
+644,1644,['jQuery'],[19],['frontEndList']
+645,1645,['Node.js'],[19],['backEndList']
 646,1646,[],[],['politicalList']
-647,1647,"['Node.js', 'Political Science']",[14 21],"['politicalList', 'backEndList']"
-648,1648,[],[],['programList']
-649,1649,"['Trigonometry', 'Inverse Trignonometry']",[21 29],['mathsList']
-650,1650,[],[],['mathsList']
-651,1651,['Django'],[11],"['backEndList', 'programList']"
-652,1652,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[16 22 12 22],['frontEndList']
-653,1653,"['Literature', 'Grammar', 'Trigonometry']",[16 14 18],"['englishList', 'mathsList']"
-654,1654,"['Python: Introduction', 'Data Science', 'Machine Learning']",[14 13 11],['programList']
-655,1655,"['Node.js', 'Node.js', 'Django', 'Ruby on Rails']",[10 23 16 15],['backEndList']
-656,1656,"['HTML,CSS', 'Javascript', 'React.js', 'Data Structures']",[29 24 20 18],"['frontEndList', 'programList']"
-657,1657,['Data Structures'],[13],"['mathsList', 'programList']"
-658,1658,"['Machine Learning', 'Python: Introduction', 'Data Science', 'Machine Learning']",[12 14 17 28],['programList']
-659,1659,"['Public Speaking', 'Political Science', 'Human Rights']",[20 27 19],['politicalList']
-660,1660,"['Grammar', 'Vocabulary', 'Javascript', 'React.js', 'jQuery']",[21 12 28 22 16],"['englishList', 'frontEndList']"
-661,1661,"['Ruby on Rails', 'pHp', 'Node.js', 'Django', 'Ruby on Rails']",[26 17 28 17 15],['backEndList']
-662,1662,"['Node.js', 'Django', 'Ruby on Rails']",[10 19 26],['backEndList']
-663,1663,[],[],['frontEndList']
-664,1664,"['Python: Introduction', 'Data Science']",[18 19],['programList']
-665,1665,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[27 20 14 19],['backEndList']
-666,1666,"['Grammar', 'Vocabulary', 'Speech']",[19 10 27],['englishList']
-667,1667,"['HTML,CSS']",[24],['frontEndList']
-668,1668,"['Javascript', 'React.js', 'jQuery']",[28 24 13],['frontEndList']
-669,1669,"['Political Science', 'Human Rights']",[15 26],['politicalList']
-670,1670,"['Public Speaking', 'Political Science', 'Human Rights']",[24 22 23],['politicalList']
-671,1671,"['HTML,CSS', 'Javascript', 'React.js']",[18 24 20],['frontEndList']
-672,1672,"['Node.js', 'Django']",[12 13],['backEndList']
-673,1673,"['Literature', 'Javascript', 'React.js', 'jQuery']",[12 27 24 12],"['englishList', 'frontEndList']"
-674,1674,"['Javascript', 'React.js', 'jQuery']",[12 24 15],['frontEndList']
-675,1675,"['Node.js', 'Django']",[11 16],['backEndList']
-676,1676,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[25 12 23 10],"['englishList', 'backEndList']"
-677,1677,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[27 10 14 27],['englishList']
-678,1678,['Machine Learning'],[10],['programList']
-679,1679,"['Public Speaking', 'Political Science']",[11 10],"['politicalList', 'mathsList']"
-680,1680,"['English Expressions', 'Data Structures']",[22 22],"['englishList', 'programList']"
-681,1681,[],[],['frontEndList']
-682,1682,['Django'],[17],['backEndList']
-683,1683,"['Ruby on Rails', 'Javascript']",[17 17],"['frontEndList', 'backEndList']"
-684,1684,['Public Speaking'],[23],"['politicalList', 'mathsList']"
-685,1685,[],[],['mathsList']
-686,1686,"['Speech', 'English Expressions']",[23 16],"['englishList', 'backEndList']"
-687,1687,"['Vocabulary', 'Speech', 'English Expressions']",[22 29 13],['englishList']
-688,1688,['Ruby on Rails'],[17],['backEndList']
-689,1689,"['Node.js', 'Django']",[10 12],['backEndList']
-690,1690,"['Political Science', 'Human Rights', 'jQuery']",[15 22 29],"['politicalList', 'frontEndList']"
-691,1691,['Ruby on Rails'],[15],['backEndList']
-692,1692,"['Political Science', 'Human Rights']",[26 25],['politicalList']
-693,1693,['Trigonometry'],[19],"['englishList', 'mathsList']"
-694,1694,"['HTML,CSS', 'Javascript', 'React.js']",[18 24 25],['frontEndList']
-695,1695,"['Literature', 'Inverse Trignonometry']",[25 23],"['englishList', 'mathsList']"
-696,1696,"['Public Speaking', 'Political Science']",[20 16],"['politicalList', 'backEndList']"
-697,1697,[],[],['mathsList']
-698,1698,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[26 15 18 25],['backEndList']
-699,1699,[],[],['backEndList']
-700,1700,[],[],['englishList']
-701,1701,"['Javascript', 'React.js', 'jQuery']",[10 16 23],['frontEndList']
-702,1702,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[10 17 15 24],['programList']
-703,1703,['Inverse Trignonometry'],[12],"['backEndList', 'mathsList']"
-704,1704,[],[],['mathsList']
-705,1705,['pHp'],[20],"['politicalList', 'backEndList']"
-706,1706,"['Django', 'Ruby on Rails', 'Javascript']",[27 26 10],"['frontEndList', 'backEndList']"
-707,1707,"['Speech', 'English Expressions']",[10 12],['englishList']
-708,1708,['React.js'],[14],"['englishList', 'frontEndList']"
-709,1709,"['Political Science', 'Trigonometry']",[25 10],"['politicalList', 'mathsList']"
-710,1710,"['Node.js', 'Django', 'Ruby on Rails', 'English Expressions']",[13 17 21 17],"['englishList', 'backEndList']"
-711,1711,"['Vocabulary', 'Speech', 'English Expressions']",[24 13 28],['englishList']
-712,1712,"['Machine Learning', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[11 17 21 16 23],"['frontEndList', 'programList']"
-713,1713,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[11 22 21 15],['backEndList']
-714,1714,['Python: Introduction'],[23],['programList']
-715,1715,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[19 21 11 13],['frontEndList']
-716,1716,['Public Speaking'],[20],"['politicalList', 'mathsList']"
-717,1717,"['Inverse Trignonometry', 'Data Science']",[18 26],"['mathsList', 'programList']"
-718,1718,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[23 27 10 19],['backEndList']
-719,1719,"['HTML,CSS', 'Javascript']",[29 23],"['politicalList', 'frontEndList']"
-720,1720,"['Trigonometry', 'Inverse Trignonometry']",[22 16],['mathsList']
-721,1721,"['Javascript', 'React.js']",[25 25],"['englishList', 'frontEndList']"
-722,1722,['Data Science'],[18],['programList']
-723,1723,['Node.js'],[15],['backEndList']
-724,1724,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[21 23 17 27],"['politicalList', 'programList']"
-725,1725,"['Literature', 'Grammar', 'Vocabulary']",[11 18 21],['englishList']
-726,1726,"['Javascript', 'React.js']",[28 15],['frontEndList']
-727,1727,"['Django', 'Ruby on Rails', 'pHp']",[28 16 22],['backEndList']
-728,1728,"['Django', 'Ruby on Rails', 'Public Speaking']",[19 12 25],"['politicalList', 'backEndList']"
-729,1729,"['Political Science', 'Trigonometry']",[22 13],"['politicalList', 'mathsList']"
-730,1730,"['Political Science', 'Human Rights']",[20 21],['politicalList']
-731,1731,"['Inverse Trignonometry', 'jQuery']",[27 19],"['frontEndList', 'mathsList']"
-732,1732,[],[],['englishList']
-733,1733,"['Javascript', 'React.js', 'jQuery']",[24 25 29],['frontEndList']
-734,1734,"['Node.js', 'Django']",[21 10],['backEndList']
-735,1735,['Machine Learning'],[26],['programList']
-736,1736,['Trigonometry'],[24],['mathsList']
-737,1737,['Speech'],[27],"['englishList', 'backEndList']"
-738,1738,"['Human Rights', 'Ruby on Rails']",[26 10],"['politicalList', 'backEndList']"
-739,1739,"['Human Rights', 'Grammar', 'Vocabulary']",[15 23 16],"['englishList', 'politicalList']"
-740,1740,"['Python: Introduction', 'Data Science', 'Machine Learning']",[26 22 18],"['mathsList', 'programList']"
-741,1741,"['Django', 'Ruby on Rails', 'Trigonometry']",[22 12 19],"['backEndList', 'mathsList']"
-742,1742,"['Machine Learning', 'Data Structures', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[10 26 19 16 24 17],['programList']
-743,1743,[],[],['programList']
-744,1744,"['Node.js', 'Django', 'Ruby on Rails']",[19 27 14],['backEndList']
-745,1745,"['Javascript', 'React.js']",[21 20],['frontEndList']
-746,1746,[],[],['politicalList']
-747,1747,"['Django', 'Ruby on Rails', 'Inverse Trignonometry']",[13 29 20],"['backEndList', 'mathsList']"
-748,1748,"['Political Science', 'Human Rights']",[16 20],['politicalList']
-749,1749,"['Python: Introduction', 'Data Science']",[11 11],"['frontEndList', 'programList']"
-750,1750,[],[],['frontEndList']
-751,1751,['Public Speaking'],[24],"['politicalList', 'mathsList']"
-752,1752,"['Grammar', 'Vocabulary', 'Speech', 'Public Speaking', 'Political Science', 'Human Rights']",[29 26 25 21 24 26],"['englishList', 'politicalList']"
-753,1753,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[29 14 11 20],['englishList']
-754,1754,"['Django', 'Ruby on Rails', 'pHp', 'Machine Learning', 'Data Structures']",[16 21 25 23 12],"['backEndList', 'programList']"
-755,1755,"['Javascript', 'React.js', 'jQuery', 'Node.js']",[21 19 16 19],"['frontEndList', 'backEndList']"
-756,1756,['Inverse Trignonometry'],[28],"['frontEndList', 'mathsList']"
-757,1757,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'HTML,CSS', 'Javascript']",[28 27 14 27 13 27],"['englishList', 'frontEndList']"
-758,1758,"['Human Rights', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[15 20 26 18 12],"['englishList', 'politicalList']"
-759,1759,"['Machine Learning', 'Data Structures']",[20 13],['programList']
-760,1760,"['Vocabulary', 'Ruby on Rails']",[28 26],"['englishList', 'backEndList']"
-761,1761,['Human Rights'],[23],"['politicalList', 'backEndList']"
-762,1762,"['Data Science', 'Machine Learning']",[23 10],['programList']
-763,1763,"['Javascript', 'React.js', 'jQuery', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[25 24 16 12 24 25 29],"['englishList', 'frontEndList']"
-764,1764,"['Political Science', 'Human Rights']",[19 26],['politicalList']
-765,1765,"['Javascript', 'React.js', 'jQuery']",[16 26 25],['frontEndList']
-766,1766,"['Grammar', 'Vocabulary', 'Literature', 'Grammar']",[28 23 12 12],['englishList']
-767,1767,[],[],['programList']
-768,1768,"['Javascript', 'React.js']",[11 24],['frontEndList']
-769,1769,[],[],['frontEndList']
-770,1770,"['Python: Introduction', 'Data Science', 'Machine Learning']",[19 19 28],['programList']
-771,1771,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[18 18 24 27],['programList']
-772,1772,[],[],"['politicalList', 'frontEndList']"
-773,1773,"['Vocabulary', 'Speech', 'English Expressions']",[28 21 27],['englishList']
-774,1774,[],[],['mathsList']
-775,1775,"['HTML,CSS', 'Javascript', 'React.js']",[23 24 28],['frontEndList']
-776,1776,['Human Rights'],[17],['politicalList']
-777,1777,['jQuery'],[27],['frontEndList']
-778,1778,['Political Science'],[29],['politicalList']
-779,1779,"['Machine Learning', 'Data Structures']",[15 10],['programList']
-780,1780,"['Django', 'HTML,CSS', 'Javascript', 'React.js']",[20 16 26 18],"['frontEndList', 'backEndList']"
-781,1781,['Political Science'],[12],['politicalList']
-782,1782,[],[],['englishList']
-783,1783,"['Public Speaking', 'Political Science', 'Human Rights', 'Public Speaking', 'Political Science']",[13 24 14 13 22],['politicalList']
-784,1784,"['Grammar', 'Vocabulary', 'Speech', 'Public Speaking', 'Political Science', 'Human Rights']",[18 15 11 11 11 10],"['englishList', 'politicalList']"
-785,1785,[],[],['programList']
-786,1786,['Ruby on Rails'],[15],['backEndList']
-787,1787,"['React.js', 'Speech']",[20 23],"['englishList', 'frontEndList']"
-788,1788,[],[],['englishList']
-789,1789,"['Trigonometry', 'Human Rights']",[29 12],"['politicalList', 'mathsList']"
-790,1790,['Django'],[23],['backEndList']
-791,1791,['Data Structures'],[23],['programList']
-792,1792,['Speech'],[29],"['englishList', 'programList']"
-793,1793,"['HTML,CSS', 'Javascript']",[24 16],"['frontEndList', 'backEndList']"
-794,1794,"['Node.js', 'Django', 'Ruby on Rails', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[19 29 10 16 11 14 20],"['backEndList', 'programList']"
-795,1795,"['Django', 'Ruby on Rails', 'pHp', 'Political Science']",[17 22 12 23],"['politicalList', 'backEndList']"
-796,1796,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[12 17 27 12],['frontEndList']
-797,1797,['Machine Learning'],[28],['programList']
-798,1798,"['Grammar', 'Vocabulary', 'Speech', 'Ruby on Rails']",[27 24 15 18],"['englishList', 'backEndList']"
-799,1799,[],[],['mathsList']
-800,1800,['Inverse Trignonometry'],[22],"['mathsList', 'programList']"
-801,1801,['Ruby on Rails'],[23],['backEndList']
-802,1802,[],[],['frontEndList']
-803,1803,['pHp'],[13],"['backEndList', 'mathsList']"
-804,1804,"['Machine Learning', 'Data Structures']",[13 22],"['frontEndList', 'programList']"
-805,1805,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[28 17 11 24],"['frontEndList', 'backEndList']"
-806,1806,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[13 12 22 20 24],['englishList']
-807,1807,['pHp'],[22],['backEndList']
-808,1808,"['Public Speaking', 'Political Science']",[18 13],"['politicalList', 'programList']"
-809,1809,"['Python: Introduction', 'Data Structures']",[27 27],['programList']
-810,1810,['Machine Learning'],[21],['programList']
-811,1811,"['HTML,CSS', 'Javascript', 'React.js']",[19 23 11],"['frontEndList', 'mathsList']"
-812,1812,"['Data Structures', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[13 11 18 16 15],['programList']
-813,1813,"['Javascript', 'Trigonometry', 'Inverse Trignonometry']",[11 14 17],"['frontEndList', 'mathsList']"
-814,1814,"['Political Science', 'Human Rights']",[27 23],['politicalList']
-815,1815,[],[],['mathsList']
+647,1647,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[27 16 24 19],"['frontEndList', 'englishList']"
+648,1648,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[16 19 21 22],"['backEndList', 'englishList']"
+649,1649,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[21 20 18 10 28],"['backEndList', 'englishList']"
+650,1650,"['Data Science', 'Machine Learning']",[29 26],['programList']
+651,1651,"['Grammar', 'Vocabulary', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[26 27 24 16 15 13],['englishList']
+652,1652,"['Literature', 'Trigonometry', 'Inverse Trignonometry']",[10 14 26],"['mathsList', 'englishList']"
+653,1653,"['React.js', 'Public Speaking', 'Political Science', 'Human Rights']",[15 13 15 11],"['frontEndList', 'politicalList']"
+654,1654,"['Vocabulary', 'Speech']",[19 10],"['backEndList', 'englishList']"
+655,1655,[],[],['politicalList']
+656,1656,"['Public Speaking', 'Political Science', 'jQuery']",[16 12 17],"['frontEndList', 'politicalList']"
+657,1657,"['HTML,CSS']",[27],['frontEndList']
+658,1658,"['Public Speaking', 'Political Science', 'Human Rights']",[10 14 25],['politicalList']
+659,1659,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Human Rights']",[15 27 18 20],"['programList', 'politicalList']"
+660,1660,"['Machine Learning', 'Data Structures', 'Public Speaking']",[14 20 27],"['programList', 'politicalList']"
+661,1661,"['HTML,CSS']",[15],['frontEndList']
+662,1662,"['HTML,CSS', 'Javascript']",[16 21],['frontEndList']
+663,1663,"['Python: Introduction', 'Data Science', 'HTML,CSS']",[20 10 28],"['programList', 'frontEndList']"
+664,1664,"['Trigonometry', 'Python: Introduction', 'Data Science', 'Machine Learning']",[10 26 27 23],"['programList', 'mathsList']"
+665,1665,"['Public Speaking', 'Political Science', 'Human Rights']",[11 19 29],['politicalList']
+666,1666,"['Trigonometry', 'Inverse Trignonometry']",[16 17],['mathsList']
+667,1667,['Human Rights'],[20],['politicalList']
+668,1668,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Inverse Trignonometry']",[18 21 29 11],"['mathsList', 'programList']"
+669,1669,"['Data Science', 'Machine Learning', 'Data Structures', 'Javascript', 'React.js', 'jQuery']",[13 18 10 26 13 18],"['programList', 'frontEndList']"
+670,1670,"['Django', 'Ruby on Rails']",[24 28],['backEndList']
+671,1671,[],[],"['mathsList', 'frontEndList']"
+672,1672,['Trigonometry'],[13],"['mathsList', 'englishList']"
+673,1673,['Ruby on Rails'],[23],['backEndList']
+674,1674,['Human Rights'],[16],['politicalList']
+675,1675,"['Trigonometry', 'Inverse Trignonometry', 'Literature', 'Grammar']",[13 21 29 14],"['mathsList', 'englishList']"
+676,1676,"['Trigonometry', 'Inverse Trignonometry']",[13 16],['mathsList']
+677,1677,"['Django', 'Ruby on Rails']",[28 20],"['backEndList', 'politicalList']"
+678,1678,"['Trigonometry', 'Inverse Trignonometry', 'React.js', 'jQuery']",[17 14 17 26],"['mathsList', 'frontEndList']"
+679,1679,"['Public Speaking', 'Political Science', 'Human Rights']",[26 26 13],"['mathsList', 'politicalList']"
+680,1680,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures', 'Node.js', 'Django', 'Ruby on Rails', 'pHp']",[14 16 25 28 19 25 28 16],"['programList', 'backEndList']"
+681,1681,"['HTML,CSS']",[24],['frontEndList']
+682,1682,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[29 11 18 13],['frontEndList']
+683,1683,['Django'],[12],['backEndList']
+684,1684,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[21 19 18 25],['englishList']
+685,1685,"['Data Science', 'Machine Learning', 'Data Structures']",[16 13 26],['programList']
+686,1686,[],[],['programList']
+687,1687,"['Public Speaking', 'Political Science', 'Human Rights']",[24 24 26],"['backEndList', 'politicalList']"
+688,1688,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[20 14 19 14],['programList']
+689,1689,"['Political Science', 'Human Rights', 'React.js', 'jQuery']",[20 27 19 26],"['frontEndList', 'politicalList']"
+690,1690,['Vocabulary'],[28],['englishList']
+691,1691,['Trigonometry'],[27],"['mathsList', 'politicalList']"
+692,1692,['Javascript'],[24],['frontEndList']
+693,1693,"['Grammar', 'Vocabulary']",[22 17],['englishList']
+694,1694,[],[],['englishList']
+695,1695,"['Data Science', 'Machine Learning']",[20 23],['programList']
+696,1696,"['Ruby on Rails', 'pHp']",[19 12],['backEndList']
+697,1697,"['Literature', 'Grammar']",[14 21],['englishList']
+698,1698,['Javascript'],[22],['frontEndList']
+699,1699,[],[],"['mathsList', 'politicalList']"
+700,1700,['Data Science'],[12],['programList']
+701,1701,"['HTML,CSS', 'Javascript']",[15 27],"['frontEndList', 'politicalList']"
+702,1702,"['jQuery', 'Public Speaking']",[12 16],"['frontEndList', 'politicalList']"
+703,1703,"['Python: Introduction', 'Vocabulary', 'Speech']",[19 13 14],"['programList', 'englishList']"
+704,1704,[],[],['englishList']
+705,1705,"['Public Speaking', 'Grammar', 'Vocabulary']",[19 18 21],"['englishList', 'politicalList']"
+706,1706,"['Ruby on Rails', 'pHp', 'pHp']",[12 16 15],['backEndList']
+707,1707,"['pHp', 'Public Speaking']",[20 25],"['backEndList', 'politicalList']"
+708,1708,"['Public Speaking', 'Political Science']",[26 15],['politicalList']
+709,1709,"['HTML,CSS', 'Javascript', 'Trigonometry', 'Inverse Trignonometry']",[18 19 28 14],"['mathsList', 'frontEndList']"
+710,1710,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[24 23 26 28],['frontEndList']
+711,1711,[],[],['englishList']
+712,1712,"['Trigonometry', 'React.js', 'jQuery']",[16 10 15],"['mathsList', 'frontEndList']"
+713,1713,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[26 24 27 12],['englishList']
+714,1714,"['Public Speaking', 'Inverse Trignonometry']",[12 27],"['mathsList', 'politicalList']"
+715,1715,[],[],['mathsList']
+716,1716,['Machine Learning'],[24],"['mathsList', 'programList']"
+717,1717,['Django'],[24],"['programList', 'backEndList']"
+718,1718,"['Vocabulary', 'Speech']",[12 13],['englishList']
+719,1719,"['Literature', 'Grammar']",[21 19],"['politicalList', 'englishList']"
+720,1720,"['English Expressions', 'Inverse Trignonometry']",[10 15],"['mathsList', 'englishList']"
+721,1721,"['HTML,CSS']",[18],['frontEndList']
+722,1722,['Trigonometry'],[14],"['mathsList', 'frontEndList']"
+723,1723,"['Grammar', 'Vocabulary']",[10 16],['englishList']
+724,1724,['Machine Learning'],[27],"['programList', 'frontEndList']"
+725,1725,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[25 28 12 19 24],['englishList']
+726,1726,"['Node.js', 'Django', 'Ruby on Rails', 'Trigonometry', 'Inverse Trignonometry']",[18 15 23 29 23],"['mathsList', 'backEndList']"
+727,1727,"['Data Structures', 'Python: Introduction', 'Data Science']",[18 28 28],['programList']
+728,1728,"['Machine Learning', 'Data Structures', 'pHp']",[13 19 16],"['programList', 'backEndList']"
+729,1729,['Political Science'],[29],"['backEndList', 'politicalList']"
+730,1730,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'pHp']",[10 20 14 19 10],"['backEndList', 'englishList']"
+731,1731,"['Python: Introduction', 'Literature', 'Grammar', 'Vocabulary', 'Speech']",[22 18 13 21 29],"['programList', 'englishList']"
+732,1732,"['Trigonometry', 'Literature', 'Grammar']",[28 14 21],"['mathsList', 'englishList']"
+733,1733,"['Grammar', 'Vocabulary', 'Speech']",[11 26 13],['englishList']
+734,1734,['Human Rights'],[29],"['backEndList', 'politicalList']"
+735,1735,"['Data Science', 'Machine Learning', 'Data Structures']",[16 20 10],['programList']
+736,1736,[],[],['mathsList']
+737,1737,['Django'],[12],['backEndList']
+738,1738,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[15 24 10 10],['frontEndList']
+739,1739,"['Ruby on Rails', 'Trigonometry']",[15 29],"['mathsList', 'backEndList']"
+740,1740,['Grammar'],[28],['englishList']
+741,1741,"['Grammar', 'Vocabulary']",[28 10],['englishList']
+742,1742,['jQuery'],[28],"['frontEndList', 'englishList']"
+743,1743,"['Public Speaking', 'Political Science']",[26 28],['politicalList']
+744,1744,['Trigonometry'],[20],['mathsList']
+745,1745,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[21 19 20 13],['programList']
+746,1746,['Python: Introduction'],[29],"['programList', 'backEndList']"
+747,1747,[],[],['mathsList']
+748,1748,"['Ruby on Rails', 'pHp']",[20 16],"['programList', 'backEndList']"
+749,1749,"['React.js', 'Speech']",[15 22],"['frontEndList', 'englishList']"
+750,1750,"['Trigonometry', 'Inverse Trignonometry', 'React.js', 'jQuery']",[28 10 27 10],"['mathsList', 'frontEndList']"
+751,1751,[],[],['englishList']
+752,1752,[],[],"['mathsList', 'politicalList']"
+753,1753,[],[],['backEndList']
+754,1754,[],[],"['programList', 'backEndList']"
+755,1755,['English Expressions'],[15],['englishList']
+756,1756,"['Django', 'Vocabulary']",[28 26],"['backEndList', 'englishList']"
+757,1757,"['Python: Introduction', 'Data Science']",[16 22],['programList']
+758,1758,"['Ruby on Rails', 'Node.js', 'Django', 'Ruby on Rails']",[29 24 27 26],['backEndList']
+759,1759,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[12 16 23 20],['backEndList']
+760,1760,"['Political Science', 'Human Rights', 'Speech']",[18 11 29],"['englishList', 'politicalList']"
+761,1761,['Django'],[20],['backEndList']
+762,1762,[],[],"['programList', 'backEndList']"
+763,1763,['Vocabulary'],[23],['englishList']
+764,1764,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[17 23 16 19 25 25 27 10],"['frontEndList', 'englishList']"
+765,1765,"['HTML,CSS']",[13],['frontEndList']
+766,1766,[],[],['politicalList']
+767,1767,"['Node.js', 'Django', 'Ruby on Rails', 'Node.js', 'Django']",[27 10 18 26 24],['backEndList']
+768,1768,['Data Science'],[26],['programList']
+769,1769,['Node.js'],[12],['backEndList']
+770,1770,"['React.js', 'jQuery', 'Django', 'Ruby on Rails', 'pHp']",[26 29 24 15 11],"['backEndList', 'frontEndList']"
+771,1771,"['HTML,CSS', 'Javascript', 'Python: Introduction', 'Data Science']",[14 10 12 17],"['programList', 'frontEndList']"
+772,1772,[],[],['frontEndList']
+773,1773,"['Python: Introduction', 'Data Science', 'Machine Learning']",[15 15 24],['programList']
+774,1774,['Data Science'],[24],['programList']
+775,1775,"['Political Science', 'Human Rights']",[12 12],['politicalList']
+776,1776,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery', 'Political Science', 'Human Rights']",[14 13 25 12 20 12],"['frontEndList', 'politicalList']"
+777,1777,['Public Speaking'],[19],['politicalList']
+778,1778,[],[],['backEndList']
+779,1779,['Machine Learning'],[14],['programList']
+780,1780,"['Javascript', 'Inverse Trignonometry']",[24 20],"['mathsList', 'frontEndList']"
+781,1781,[],[],['politicalList']
+782,1782,"['Literature', 'Grammar', 'Vocabulary']",[26 29 22],['englishList']
+783,1783,"['HTML,CSS']",[16],['frontEndList']
+784,1784,['Machine Learning'],[14],"['programList', 'frontEndList']"
+785,1785,"['Grammar', 'Vocabulary', 'Grammar']",[10 22 16],['englishList']
+786,1786,"['Trigonometry', 'Inverse Trignonometry', 'Vocabulary']",[11 15 22],"['mathsList', 'englishList']"
+787,1787,['Data Structures'],[24],['programList']
+788,1788,"['Node.js', 'Django']",[11 13],['backEndList']
+789,1789,['Speech'],[11],['englishList']
+790,1790,['Literature'],[20],['englishList']
+791,1791,"['Trigonometry', 'Inverse Trignonometry']",[13 11],['mathsList']
+792,1792,"['Public Speaking', 'Political Science', 'Ruby on Rails']",[16 11 13],"['backEndList', 'politicalList']"
+793,1793,['Political Science'],[27],"['backEndList', 'politicalList']"
+794,1794,"['Node.js', 'Django', 'Ruby on Rails', 'Literature', 'Grammar', 'Vocabulary']",[11 15 11 26 23 17],"['backEndList', 'englishList']"
+795,1795,[],[],"['programList', 'backEndList']"
+796,1796,[],[],['frontEndList']
+797,1797,"['Django', 'Machine Learning', 'Data Structures']",[27 23 27],"['programList', 'backEndList']"
+798,1798,"['React.js', 'jQuery', 'jQuery']",[18 14 22],['frontEndList']
+799,1799,[],[],['backEndList']
+800,1800,[],[],"['mathsList', 'backEndList']"
+801,1801,[],[],['frontEndList']
+802,1802,[],[],['mathsList']
+803,1803,['Inverse Trignonometry'],[10],['mathsList']
+804,1804,['jQuery'],[15],['frontEndList']
+805,1805,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'HTML,CSS']",[13 22 19 24 26 18],"['frontEndList', 'englishList']"
+806,1806,"['Trigonometry', 'Grammar', 'Vocabulary', 'Speech']",[19 26 16 11],"['mathsList', 'englishList']"
+807,1807,"['Node.js', 'Trigonometry', 'Inverse Trignonometry']",[10 10 12],"['mathsList', 'backEndList']"
+808,1808,[],[],['frontEndList']
+809,1809,"['Node.js', 'Django', 'Ruby on Rails', 'Speech']",[23 27 17 26],"['backEndList', 'englishList']"
+810,1810,[],[],"['mathsList', 'programList']"
+811,1811,"['Machine Learning', 'Data Structures']",[18 17],['programList']
+812,1812,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Science', 'Machine Learning']",[29 16 16 25 21],['programList']
+813,1813,"['English Expressions', 'Political Science']",[14 28],"['politicalList', 'englishList']"
+814,1814,[],[],['frontEndList']
+815,1815,"['Trigonometry', 'Node.js', 'Django', 'Ruby on Rails', 'pHp']",[29 24 24 19 18],"['mathsList', 'backEndList']"
 816,1816,[],[],['politicalList']
-817,1817,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[25 11 18 28 11],['englishList']
-818,1818,"['Python: Introduction', 'Data Science']",[28 27],"['frontEndList', 'programList']"
-819,1819,[],[],['programList']
-820,1820,"['Javascript', 'Django']",[11 26],"['frontEndList', 'backEndList']"
-821,1821,"['Data Science', 'Machine Learning']",[16 19],"['mathsList', 'programList']"
-822,1822,['Trigonometry'],[14],"['mathsList', 'programList']"
-823,1823,[],[],['englishList']
-824,1824,"['Speech', 'English Expressions']",[19 26],['englishList']
-825,1825,[],[],['mathsList']
-826,1826,['Trigonometry'],[27],['mathsList']
-827,1827,[],[],['mathsList']
-828,1828,['jQuery'],[10],['frontEndList']
-829,1829,['Human Rights'],[26],['politicalList']
-830,1830,['Trigonometry'],[16],['mathsList']
-831,1831,"['Public Speaking', 'Political Science', 'Human Rights', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[22 17 29 26 15 12 12],"['politicalList', 'frontEndList']"
-832,1832,"['HTML,CSS', 'Javascript', 'React.js']",[22 20 29],['frontEndList']
-833,1833,['Trigonometry'],[23],['mathsList']
-834,1834,['pHp'],[12],['backEndList']
-835,1835,"['Python: Introduction', 'Data Science', 'Literature', 'Grammar']",[18 22 10 25],"['englishList', 'programList']"
-836,1836,[],[],['backEndList']
-837,1837,['Trigonometry'],[19],"['mathsList', 'programList']"
-838,1838,"['Data Science', 'Machine Learning']",[26 14],['programList']
-839,1839,[],[],['mathsList']
-840,1840,"['Trigonometry', 'jQuery']",[23 14],"['frontEndList', 'mathsList']"
-841,1841,"['Grammar', 'Vocabulary']",[14 29],['englishList']
-842,1842,[],[],"['politicalList', 'mathsList']"
-843,1843,['Python: Introduction'],[26],"['mathsList', 'programList']"
-844,1844,['Vocabulary'],[29],['englishList']
-845,1845,[],[],['frontEndList']
-846,1846,"['HTML,CSS', 'Javascript', 'React.js']",[12 20 12],['frontEndList']
-847,1847,"['Inverse Trignonometry', 'React.js']",[15 17],"['frontEndList', 'mathsList']"
-848,1848,[],[],"['politicalList', 'frontEndList']"
-849,1849,"['Trigonometry', 'Inverse Trignonometry']",[14 15],['mathsList']
-850,1850,"['Political Science', 'Human Rights']",[29 20],['politicalList']
-851,1851,"['Node.js', 'Django']",[24 21],['backEndList']
-852,1852,['Trigonometry'],[25],['mathsList']
-853,1853,['Political Science'],[13],"['politicalList', 'programList']"
-854,1854,"['Grammar', 'Vocabulary', 'Speech']",[22 20 22],['englishList']
-855,1855,"['Public Speaking', 'Political Science', 'Human Rights']",[17 11 27],"['politicalList', 'mathsList']"
-856,1856,"['React.js', 'jQuery', 'Python: Introduction']",[13 27 25],"['frontEndList', 'programList']"
-857,1857,['Grammar'],[20],['englishList']
-858,1858,['Inverse Trignonometry'],[16],['mathsList']
-859,1859,['Data Structures'],[29],"['backEndList', 'programList']"
-860,1860,"['Javascript', 'React.js', 'jQuery']",[25 15 13],"['frontEndList', 'mathsList']"
-861,1861,"['pHp', 'Node.js', 'Django', 'Ruby on Rails']",[20 20 18 23],['backEndList']
-862,1862,"['Political Science', 'Human Rights']",[29 28],"['politicalList', 'frontEndList']"
-863,1863,"['Data Science', 'Machine Learning', 'Data Structures']",[20 28 22],['programList']
-864,1864,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Trigonometry']",[10 20 29 22],"['mathsList', 'programList']"
-865,1865,"['Node.js', 'Django', 'Ruby on Rails']",[12 21 23],['backEndList']
-866,1866,['Node.js'],[24],['backEndList']
-867,1867,"['Inverse Trignonometry', 'Vocabulary', 'Speech', 'English Expressions']",[27 14 29 20],"['englishList', 'mathsList']"
-868,1868,"['Javascript', 'React.js']",[10 21],"['politicalList', 'frontEndList']"
-869,1869,['Speech'],[20],['englishList']
-870,1870,"['Django', 'Ruby on Rails']",[16 28],['backEndList']
-871,1871,['Trigonometry'],[18],['mathsList']
-872,1872,"['HTML,CSS', 'Javascript', 'React.js']",[15 28 16],"['frontEndList', 'programList']"
-873,1873,"['Javascript', 'React.js']",[16 22],['frontEndList']
-874,1874,"['Data Science', 'Machine Learning', 'Data Structures', 'Javascript', 'React.js', 'jQuery']",[26 14 19 16 17 22],"['frontEndList', 'programList']"
-875,1875,['jQuery'],[18],['frontEndList']
-876,1876,"['Public Speaking', 'Political Science', 'Human Rights', 'Python: Introduction', 'Data Science']",[11 21 21 26 28],"['politicalList', 'programList']"
-877,1877,"['Machine Learning', 'Data Science', 'Machine Learning', 'Data Structures']",[28 23 18 13],['programList']
-878,1878,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[11 18 11 19],['programList']
-879,1879,"['jQuery', 'Inverse Trignonometry']",[18 23],"['frontEndList', 'mathsList']"
-880,1880,[],[],['frontEndList']
-881,1881,"['Public Speaking', 'Political Science', 'Human Rights']",[25 26 17],['politicalList']
-882,1882,[],[],['backEndList']
-883,1883,['Node.js'],[26],['backEndList']
-884,1884,[],[],"['politicalList', 'programList']"
-885,1885,"['Django', 'Ruby on Rails', 'pHp']",[29 12 21],['backEndList']
-886,1886,"['HTML,CSS', 'Javascript']",[15 29],['frontEndList']
-887,1887,['Public Speaking'],[11],['politicalList']
-888,1888,"['React.js', 'jQuery']",[28 15],['frontEndList']
-889,1889,['Inverse Trignonometry'],[27],['mathsList']
-890,1890,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[19 23 11 22],"['englishList', 'programList']"
-891,1891,['pHp'],[29],['backEndList']
-892,1892,"['Public Speaking', 'Political Science', 'Political Science', 'Human Rights']",[17 13 25 24],['politicalList']
-893,1893,"['Javascript', 'React.js']",[18 24],"['frontEndList', 'backEndList']"
-894,1894,['Speech'],[20],['englishList']
-895,1895,['English Expressions'],[15],['englishList']
-896,1896,"['Node.js', 'Django']",[16 18],['backEndList']
-897,1897,"['Literature', 'Grammar']",[22 15],"['englishList', 'programList']"
-898,1898,"['Data Science', 'Machine Learning']",[26 18],"['mathsList', 'programList']"
-899,1899,"['Node.js', 'Django', 'Ruby on Rails', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[15 15 27 10 16 12 29],"['frontEndList', 'backEndList']"
-900,1900,"['Political Science', 'Human Rights', 'Ruby on Rails']",[23 29 12],"['politicalList', 'backEndList']"
-901,1901,['Inverse Trignonometry'],[10],['mathsList']
-902,1902,"['Trigonometry', 'Trigonometry']",[14 27],['mathsList']
-903,1903,"['Public Speaking', 'Political Science']",[16 24],"['politicalList', 'mathsList']"
-904,1904,['Python: Introduction'],[24],"['mathsList', 'programList']"
-905,1905,"['Data Science', 'Public Speaking', 'Political Science', 'Human Rights']",[16 21 28 25],"['politicalList', 'programList']"
-906,1906,"['Javascript', 'React.js', 'jQuery']",[10 22 27],['frontEndList']
-907,1907,"['Trigonometry', 'Inverse Trignonometry']",[22 11],['mathsList']
-908,1908,"['Node.js', 'Django', 'Django', 'Ruby on Rails']",[16 25 20 24],['backEndList']
-909,1909,"['Data Science', 'Machine Learning', 'Data Structures']",[27 12 16],['programList']
-910,1910,"['Node.js', 'Django', 'Data Science']",[17 10 15],"['backEndList', 'programList']"
-911,1911,"['Trigonometry', 'Inverse Trignonometry']",[13 29],['mathsList']
-912,1912,['React.js'],[20],['frontEndList']
-913,1913,"['Grammar', 'Vocabulary']",[22 10],['englishList']
-914,1914,['Trigonometry'],[21],['mathsList']
-915,1915,"['Node.js', 'Django']",[25 20],['backEndList']
-916,1916,"['Python: Introduction', 'Data Science', 'Machine Learning']",[27 11 16],"['politicalList', 'programList']"
-917,1917,['Human Rights'],[21],['politicalList']
-918,1918,[],[],['politicalList']
-919,1919,"['Data Science', 'Machine Learning', 'Data Structures', 'Trigonometry', 'Inverse Trignonometry']",[23 21 11 16 20],"['mathsList', 'programList']"
-920,1920,['Data Science'],[12],['programList']
-921,1921,"['Public Speaking', 'Political Science']",[16 22],['politicalList']
-922,1922,"['Political Science', 'Human Rights']",[19 27],"['englishList', 'politicalList']"
-923,1923,"['Trigonometry', 'Inverse Trignonometry', 'Ruby on Rails']",[20 27 28],"['backEndList', 'mathsList']"
-924,1924,['Trigonometry'],[21],['mathsList']
-925,1925,"['Trigonometry', 'Political Science']",[29 24],"['politicalList', 'mathsList']"
-926,1926,['Node.js'],[17],['backEndList']
-927,1927,['Trigonometry'],[21],['mathsList']
-928,1928,"['Public Speaking', 'Political Science', 'Human Rights']",[10 27 18],['politicalList']
-929,1929,"['Data Science', 'Machine Learning']",[26 27],"['politicalList', 'programList']"
-930,1930,"['Literature', 'Grammar', 'Vocabulary']",[16 28 19],['englishList']
-931,1931,"['Python: Introduction', 'Data Science']",[25 21],['programList']
-932,1932,[],[],['frontEndList']
-933,1933,"['Public Speaking', 'Political Science']",[14 11],"['politicalList', 'mathsList']"
-934,1934,"['HTML,CSS', 'Javascript', 'React.js']",[17 25 28],"['frontEndList', 'mathsList']"
-935,1935,"['Trigonometry', 'Inverse Trignonometry']",[18 18],['mathsList']
-936,1936,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'Grammar']",[11 28 16 14 13 25],['englishList']
-937,1937,['jQuery'],[26],['frontEndList']
-938,1938,['Python: Introduction'],[13],['programList']
-939,1939,"['Javascript', 'React.js']",[11 14],"['frontEndList', 'programList']"
-940,1940,"['Data Science', 'Machine Learning', 'Data Structures', 'React.js', 'jQuery']",[12 18 12 15 14],"['frontEndList', 'programList']"
-941,1941,[],[],['mathsList']
-942,1942,"['Javascript', 'React.js', 'Public Speaking', 'Political Science']",[22 10 25 20],"['politicalList', 'frontEndList']"
-943,1943,"['HTML,CSS', 'Javascript', 'React.js']",[27 20 14],"['frontEndList', 'programList']"
-944,1944,"['HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[15 13 15 11],['frontEndList']
-945,1945,"['Machine Learning', 'Data Structures']",[10 28],['programList']
-946,1946,[],[],['englishList']
-947,1947,"['Public Speaking', 'Political Science', 'Human Rights']",[16 13 26],"['politicalList', 'backEndList']"
-948,1948,['Human Rights'],[12],['politicalList']
-949,1949,['Literature'],[27],"['englishList', 'programList']"
-950,1950,"['Vocabulary', 'Speech', 'English Expressions']",[25 16 14],"['englishList', 'programList']"
-951,1951,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[11 20 25 17],['programList']
-952,1952,"['Public Speaking', 'Political Science']",[12 18],['politicalList']
-953,1953,"['Literature', 'Grammar']",[12 28],['englishList']
-954,1954,"['Literature', 'Grammar', 'Vocabulary', 'Literature', 'Grammar', 'Vocabulary']",[23 22 21 17 15 25],['englishList']
-955,1955,"['Node.js', 'Django', 'Ruby on Rails', 'Vocabulary', 'Speech', 'English Expressions']",[18 26 26 25 24 22],"['englishList', 'backEndList']"
-956,1956,"['Literature', 'Grammar']",[18 29],['englishList']
-957,1957,[],[],['englishList']
-958,1958,"['Grammar', 'Vocabulary', 'Data Science']",[14 12 22],"['englishList', 'programList']"
-959,1959,['Public Speaking'],[29],['politicalList']
-960,1960,"['Javascript', 'React.js', 'jQuery', 'React.js', 'jQuery']",[23 27 27 11 22],['frontEndList']
-961,1961,"['Vocabulary', 'Speech']",[19 12],['englishList']
-962,1962,"['React.js', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[28 21 25 20 21],['frontEndList']
-963,1963,['English Expressions'],[26],['englishList']
-964,1964,[],[],['politicalList']
-965,1965,['Political Science'],[19],['politicalList']
-966,1966,"['Python: Introduction', 'Data Science']",[19 14],['programList']
-967,1967,['jQuery'],[28],['frontEndList']
-968,1968,"['Trigonometry', 'Inverse Trignonometry']",[29 10],['mathsList']
-969,1969,"['Inverse Trignonometry', 'Trigonometry']",[22 14],['mathsList']
-970,1970,"['jQuery', 'Data Science', 'Machine Learning', 'Data Structures']",[21 10 15 15],"['frontEndList', 'programList']"
-971,1971,['jQuery'],[24],['frontEndList']
-972,1972,['Public Speaking'],[21],"['politicalList', 'programList']"
-973,1973,"['Ruby on Rails', 'pHp']",[14 18],['backEndList']
-974,1974,"['Node.js', 'Django', 'Ruby on Rails']",[14 25 19],['backEndList']
-975,1975,['Literature'],[25],"['englishList', 'politicalList']"
-976,1976,"['Speech', 'English Expressions']",[23 26],['englishList']
-977,1977,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'Javascript']",[19 19 21 11 24],"['englishList', 'frontEndList']"
-978,1978,"['HTML,CSS', 'Javascript', 'React.js']",[22 11 26],['frontEndList']
-979,1979,['React.js'],[16],['frontEndList']
-980,1980,"['English Expressions', 'Django', 'Ruby on Rails']",[17 17 20],"['englishList', 'backEndList']"
-981,1981,[],[],"['politicalList', 'mathsList']"
-982,1982,['Human Rights'],[12],['politicalList']
-983,1983,"['Public Speaking', 'Trigonometry', 'Inverse Trignonometry']",[12 18 15],"['politicalList', 'mathsList']"
-984,1984,['Political Science'],[28],['politicalList']
-985,1985,"['Political Science', 'Human Rights']",[29 11],['politicalList']
-986,1986,"['Data Structures', 'Trigonometry']",[20 28],"['mathsList', 'programList']"
-987,1987,[],[],['mathsList']
-988,1988,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[27 20 22 14],['programList']
-989,1989,['Public Speaking'],[13],['politicalList']
-990,1990,[],[],"['politicalList', 'frontEndList']"
-991,1991,[],[],['politicalList']
-992,1992,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions', 'HTML,CSS']",[17 27 28 10 25 20],"['englishList', 'frontEndList']"
-993,1993,[],[],['frontEndList']
-994,1994,[],[],['frontEndList']
-995,1995,[],[],['frontEndList']
-996,1996,"['HTML,CSS']",[24],['frontEndList']
-997,1997,"['Python: Introduction', 'Data Science', 'Machine Learning']",[11 17 17],"['mathsList', 'programList']"
-998,1998,"['Public Speaking', 'Political Science']",[26 17],['politicalList']
-999,1999,[],[],['mathsList']
-1000,2000,"['Vocabulary', 'Python: Introduction', 'Data Science']",[16 12 15],"['englishList', 'programList']"
+817,1817,"['React.js', 'jQuery']",[27 27],['frontEndList']
+818,1818,['Machine Learning'],[15],"['programList', 'backEndList']"
+819,1819,"['Public Speaking', 'English Expressions']",[29 27],"['englishList', 'politicalList']"
+820,1820,[],[],['englishList']
+821,1821,['Inverse Trignonometry'],[19],['mathsList']
+822,1822,"['Literature', 'Grammar', 'Vocabulary', 'Speech']",[11 13 27 23],['englishList']
+823,1823,"['Python: Introduction', 'Data Science']",[19 26],['programList']
+824,1824,['Human Rights'],[24],"['mathsList', 'politicalList']"
+825,1825,"['Public Speaking', 'Political Science', 'Human Rights', 'HTML,CSS', 'Javascript']",[25 20 13 15 23],"['frontEndList', 'politicalList']"
+826,1826,"['Public Speaking', 'Political Science', 'Human Rights']",[10 10 29],['politicalList']
+827,1827,"['React.js', 'jQuery']",[12 22],['frontEndList']
+828,1828,['Political Science'],[12],"['politicalList', 'englishList']"
+829,1829,[],[],['programList']
+830,1830,"['Python: Introduction', 'Data Science', 'Grammar']",[14 11 16],"['programList', 'englishList']"
+831,1831,"['Python: Introduction', 'Data Science', 'Machine Learning']",[26 11 12],"['programList', 'englishList']"
+832,1832,['Python: Introduction'],[13],['programList']
+833,1833,"['jQuery', 'Vocabulary']",[13 11],"['frontEndList', 'englishList']"
+834,1834,"['Node.js', 'Django', 'Ruby on Rails']",[16 19 10],['backEndList']
+835,1835,['Javascript'],[10],['frontEndList']
+836,1836,"['Python: Introduction', 'Data Science', 'Machine Learning']",[11 24 24],['programList']
+837,1837,"['HTML,CSS', 'React.js', 'jQuery']",[15 13 16],['frontEndList']
+838,1838,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[19 22 17 23],['backEndList']
+839,1839,[],[],['programList']
+840,1840,"['Vocabulary', 'Speech']",[17 14],['englishList']
+841,1841,[],[],['frontEndList']
+842,1842,"['Grammar', 'Grammar']",[11 20],['englishList']
+843,1843,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Public Speaking']",[26 14 20 25 15],"['backEndList', 'politicalList']"
+844,1844,[],[],['mathsList']
+845,1845,"['Human Rights', 'Django', 'Ruby on Rails', 'pHp']",[13 12 28 19],"['backEndList', 'politicalList']"
+846,1846,"['Trigonometry', 'Inverse Trignonometry']",[10 28],['mathsList']
+847,1847,"['Literature', 'Grammar']",[17 17],"['mathsList', 'englishList']"
+848,1848,[],[],['backEndList']
+849,1849,"['Trigonometry', 'HTML,CSS']",[25 23],"['mathsList', 'frontEndList']"
+850,1850,['Human Rights'],[10],"['frontEndList', 'politicalList']"
+851,1851,"['React.js', 'jQuery', 'Node.js', 'Django', 'Ruby on Rails', 'pHp']",[15 17 24 17 25 14],"['backEndList', 'frontEndList']"
+852,1852,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[15 23 21 13],"['programList', 'politicalList']"
+853,1853,[],[],['englishList']
+854,1854,"['Political Science', 'Human Rights', 'Grammar', 'Vocabulary']",[28 29 27 17],"['englishList', 'politicalList']"
+855,1855,"['Ruby on Rails', 'Public Speaking']",[19 25],"['backEndList', 'politicalList']"
+856,1856,"['Ruby on Rails', 'pHp', 'Trigonometry']",[21 19 19],"['mathsList', 'backEndList']"
+857,1857,"['HTML,CSS', 'Javascript', 'React.js']",[11 21 27],"['mathsList', 'frontEndList']"
+858,1858,"['Python: Introduction', 'Data Science', 'Inverse Trignonometry']",[17 12 16],"['mathsList', 'programList']"
+859,1859,"['Machine Learning', 'Data Science', 'Machine Learning']",[25 22 13],['programList']
+860,1860,"['Political Science', 'Human Rights']",[16 17],['politicalList']
+861,1861,"['Ruby on Rails', 'pHp', 'Python: Introduction']",[15 15 25],"['programList', 'backEndList']"
+862,1862,['Python: Introduction'],[26],['programList']
+863,1863,"['Data Science', 'Machine Learning']",[18 15],"['mathsList', 'programList']"
+864,1864,"['Literature', 'Inverse Trignonometry']",[27 29],"['mathsList', 'englishList']"
+865,1865,['Speech'],[27],['englishList']
+866,1866,['Inverse Trignonometry'],[28],['mathsList']
+867,1867,"['Node.js', 'Django']",[14 13],['backEndList']
+868,1868,"['Trigonometry', 'Inverse Trignonometry', 'Grammar', 'Vocabulary', 'Speech']",[13 28 24 16 22],"['mathsList', 'englishList']"
+869,1869,"['Vocabulary', 'Speech', 'English Expressions', 'Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[21 24 18 15 27 14 19 13],['englishList']
+870,1870,"['Trigonometry', 'Inverse Trignonometry']",[19 22],['mathsList']
+871,1871,"['Data Science', 'Machine Learning']",[27 10],['programList']
+872,1872,['Political Science'],[22],['politicalList']
+873,1873,['Node.js'],[12],['backEndList']
+874,1874,"['Django', 'Ruby on Rails', 'Trigonometry']",[23 24 10],"['mathsList', 'backEndList']"
+875,1875,"['Data Science', 'Machine Learning']",[12 15],['programList']
+876,1876,"['Javascript', 'React.js', 'jQuery', 'Political Science']",[26 24 28 10],"['frontEndList', 'politicalList']"
+877,1877,"['Ruby on Rails', 'Speech']",[22 14],"['backEndList', 'englishList']"
+878,1878,"['Grammar', 'Vocabulary']",[23 27],['englishList']
+879,1879,"['Public Speaking', 'Public Speaking', 'Political Science']",[20 25 29],['politicalList']
+880,1880,['Data Science'],[22],['programList']
+881,1881,"['Machine Learning', 'Data Structures', 'Node.js', 'Django']",[26 20 26 21],"['programList', 'backEndList']"
+882,1882,"['Machine Learning', 'Data Structures', 'HTML,CSS', 'Javascript', 'React.js', 'jQuery']",[21 17 26 23 28 12],"['programList', 'frontEndList']"
+883,1883,"['Speech', 'English Expressions', 'Trigonometry']",[10 25 24],"['mathsList', 'englishList']"
+884,1884,[],[],"['mathsList', 'programList']"
+885,1885,['Trigonometry'],[25],['mathsList']
+886,1886,['Django'],[10],['backEndList']
+887,1887,['Inverse Trignonometry'],[10],['mathsList']
+888,1888,['Grammar'],[13],"['politicalList', 'englishList']"
+889,1889,"['Political Science', 'Human Rights']",[14 28],"['backEndList', 'politicalList']"
+890,1890,"['Vocabulary', 'Speech']",[21 23],['englishList']
+891,1891,"['Trigonometry', 'Inverse Trignonometry', 'Grammar', 'Vocabulary']",[17 25 19 23],"['mathsList', 'englishList']"
+892,1892,"['Python: Introduction', 'Data Science']",[13 25],['programList']
+893,1893,[],[],['politicalList']
+894,1894,[],[],['programList']
+895,1895,"['Trigonometry', 'Inverse Trignonometry', 'React.js']",[12 13 24],"['mathsList', 'frontEndList']"
+896,1896,[],[],['politicalList']
+897,1897,"['Public Speaking', 'Political Science', 'Human Rights', 'Public Speaking', 'Political Science']",[24 26 23 23 12],['politicalList']
+898,1898,"['Javascript', 'React.js', 'HTML,CSS', 'Javascript', 'React.js']",[23 24 29 25 25],['frontEndList']
+899,1899,"['Speech', 'English Expressions']",[11 11],['englishList']
+900,1900,[],[],['politicalList']
+901,1901,"['Javascript', 'React.js']",[19 29],['frontEndList']
+902,1902,['Ruby on Rails'],[24],['backEndList']
+903,1903,"['Inverse Trignonometry', 'Python: Introduction', 'Data Science']",[27 25 26],"['programList', 'mathsList']"
+904,1904,"['Trigonometry', 'Node.js', 'Django', 'Ruby on Rails']",[11 17 28 14],"['mathsList', 'backEndList']"
+905,1905,"['Python: Introduction', 'Speech', 'English Expressions']",[18 21 20],"['programList', 'englishList']"
+906,1906,"['Human Rights', 'English Expressions']",[11 14],"['englishList', 'politicalList']"
+907,1907,['pHp'],[11],['backEndList']
+908,1908,"['Javascript', 'Data Science', 'Machine Learning']",[18 25 11],"['programList', 'frontEndList']"
+909,1909,"['Django', 'Ruby on Rails']",[17 10],['backEndList']
+910,1910,"['HTML,CSS', 'Javascript']",[24 25],"['frontEndList', 'politicalList']"
+911,1911,['Data Structures'],[24],['programList']
+912,1912,[],[],['backEndList']
+913,1913,"['Public Speaking', 'Political Science']",[15 12],['politicalList']
+914,1914,"['Inverse Trignonometry', 'Python: Introduction', 'Data Science', 'Machine Learning', 'Data Structures']",[20 18 24 19 26],"['programList', 'mathsList']"
+915,1915,"['Python: Introduction', 'Data Science']",[26 11],['programList']
+916,1916,"['Ruby on Rails', 'pHp']",[21 21],['backEndList']
+917,1917,"['Inverse Trignonometry', 'Node.js']",[20 18],"['mathsList', 'backEndList']"
+918,1918,"['Ruby on Rails', 'pHp', 'Grammar', 'Vocabulary']",[25 26 21 28],"['backEndList', 'englishList']"
+919,1919,"['Python: Introduction', 'Node.js', 'Django']",[27 28 14],"['programList', 'backEndList']"
+920,1920,[],[],['frontEndList']
+921,1921,"['Django', 'Ruby on Rails', 'pHp', 'jQuery']",[15 29 22 29],"['backEndList', 'frontEndList']"
+922,1922,['Public Speaking'],[11],['politicalList']
+923,1923,"['Public Speaking', 'Political Science', 'Human Rights', 'Literature', 'Grammar', 'Vocabulary']",[10 28 26 15 14 10],"['englishList', 'politicalList']"
+924,1924,['Data Structures'],[25],"['programList', 'politicalList']"
+925,1925,"['Node.js', 'Django', 'Ruby on Rails', 'Machine Learning']",[18 22 21 16],"['programList', 'backEndList']"
+926,1926,"['Python: Introduction', 'Data Science', 'Machine Learning', 'Grammar', 'Vocabulary', 'Speech']",[18 14 21 27 26 24],"['programList', 'englishList']"
+927,1927,['pHp'],[21],['backEndList']
+928,1928,"['Grammar', 'Vocabulary', 'Speech']",[14 16 13],['englishList']
+929,1929,"['Machine Learning', 'Data Structures']",[14 21],['programList']
+930,1930,"['Machine Learning', 'Data Structures']",[15 29],['programList']
+931,1931,"['Trigonometry', 'Inverse Trignonometry']",[11 19],['mathsList']
+932,1932,['Javascript'],[10],"['mathsList', 'frontEndList']"
+933,1933,['jQuery'],[10],['frontEndList']
+934,1934,"['Literature', 'Grammar', 'Vocabulary']",[11 14 18],['englishList']
+935,1935,"['Data Science', 'Machine Learning', 'Data Structures']",[20 24 28],['programList']
+936,1936,['Inverse Trignonometry'],[27],['mathsList']
+937,1937,"['HTML,CSS', 'Javascript']",[25 18],['frontEndList']
+938,1938,"['Vocabulary', 'Speech', 'English Expressions', 'Literature', 'Grammar']",[26 16 27 22 14],['englishList']
+939,1939,['Trigonometry'],[25],"['mathsList', 'backEndList']"
+940,1940,['pHp'],[25],['backEndList']
+941,1941,['Trigonometry'],[14],['mathsList']
+942,1942,"['Ruby on Rails', 'pHp']",[10 27],['backEndList']
+943,1943,"['Human Rights', 'Python: Introduction', 'Data Science']",[19 17 13],"['programList', 'politicalList']"
+944,1944,[],[],"['politicalList', 'englishList']"
+945,1945,"['Django', 'Ruby on Rails']",[17 22],['backEndList']
+946,1946,['Data Structures'],[10],['programList']
+947,1947,['jQuery'],[11],['frontEndList']
+948,1948,"['Django', 'Ruby on Rails']",[18 27],['backEndList']
+949,1949,"['Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[23 22 16 18 15],['englishList']
+950,1950,"['Data Science', 'Machine Learning', 'Data Structures']",[13 24 16],['programList']
+951,1951,"['Python: Introduction', 'Data Science', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[20 26 19 18 29 11],"['programList', 'englishList']"
+952,1952,"['Literature', 'React.js']",[28 17],"['frontEndList', 'englishList']"
+953,1953,"['Trigonometry', 'Inverse Trignonometry', 'Trigonometry']",[14 26 28],['mathsList']
+954,1954,"['Data Science', 'Grammar']",[19 28],"['programList', 'englishList']"
+955,1955,"['Public Speaking', 'Political Science', 'Human Rights']",[12 22 23],['politicalList']
+956,1956,"['Political Science', 'Human Rights']",[23 12],['politicalList']
+957,1957,['Trigonometry'],[24],['mathsList']
+958,1958,"['Python: Introduction', 'Data Science']",[20 10],['programList']
+959,1959,"['Node.js', 'Django', 'Human Rights']",[14 15 18],"['backEndList', 'politicalList']"
+960,1960,['Machine Learning'],[21],['programList']
+961,1961,"['Vocabulary', 'Speech', 'English Expressions']",[25 24 13],['englishList']
+962,1962,"['Python: Introduction', 'Data Science', 'Machine Learning']",[29 19 26],"['programList', 'politicalList']"
+963,1963,"['Node.js', 'Django', 'Ruby on Rails', 'pHp']",[14 12 18 26],['backEndList']
+964,1964,"['Node.js', 'Django']",[22 10],['backEndList']
+965,1965,"['Node.js', 'Django', 'Ruby on Rails', 'pHp', 'Data Science']",[11 15 17 27 21],"['programList', 'backEndList']"
+966,1966,"['Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[25 19 10 11],['englishList']
+967,1967,['Data Science'],[20],['programList']
+968,1968,"['Grammar', 'Trigonometry']",[25 12],"['mathsList', 'englishList']"
+969,1969,"['Vocabulary', 'Speech', 'Data Science']",[24 11 24],"['programList', 'englishList']"
+970,1970,"['React.js', 'Data Science']",[26 26],"['programList', 'frontEndList']"
+971,1971,['Inverse Trignonometry'],[26],['mathsList']
+972,1972,"['Inverse Trignonometry', 'Political Science']",[16 25],"['mathsList', 'politicalList']"
+973,1973,['Trigonometry'],[13],['mathsList']
+974,1974,"['Machine Learning', 'Data Structures']",[12 15],['programList']
+975,1975,"['Vocabulary', 'HTML,CSS']",[20 22],"['frontEndList', 'englishList']"
+976,1976,['Python: Introduction'],[27],"['programList', 'politicalList']"
+977,1977,['jQuery'],[10],['frontEndList']
+978,1978,"['Grammar', 'Vocabulary']",[25 18],['englishList']
+979,1979,[],[],['frontEndList']
+980,1980,"['Javascript', 'React.js', 'Literature', 'Grammar', 'Vocabulary', 'Speech', 'English Expressions']",[18 12 17 27 21 27 18],"['frontEndList', 'englishList']"
+981,1981,"['Ruby on Rails', 'pHp']",[22 13],['backEndList']
+982,1982,"['Javascript', 'React.js']",[21 26],['frontEndList']
+983,1983,['Trigonometry'],[21],['mathsList']
+984,1984,['Vocabulary'],[22],['englishList']
+985,1985,"['Public Speaking', 'Political Science', 'Human Rights', 'Political Science', 'Human Rights']",[17 13 11 27 14],['politicalList']
+986,1986,"['Javascript', 'React.js']",[24 25],['frontEndList']
+987,1987,[],[],['programList']
+988,1988,"['Grammar', 'Vocabulary', 'Javascript', 'React.js', 'jQuery']",[23 28 26 19 14],"['frontEndList', 'englishList']"
+989,1989,['Public Speaking'],[25],['politicalList']
+990,1990,"['Django', 'Literature', 'Grammar']",[26 17 24],"['backEndList', 'englishList']"
+991,1991,"['HTML,CSS']",[15],['frontEndList']
+992,1992,['Data Science'],[15],['programList']
+993,1993,"['Public Speaking', 'Political Science', 'Grammar', 'Vocabulary']",[27 27 17 27],"['englishList', 'politicalList']"
+994,1994,"['Inverse Trignonometry', 'Human Rights']",[24 13],"['mathsList', 'politicalList']"
+995,1995,[],[],"['frontEndList', 'englishList']"
+996,1996,['Trigonometry'],[12],['mathsList']
+997,1997,[],[],['mathsList']
+998,1998,"['HTML,CSS', 'Javascript']",[10 13],['frontEndList']
+999,1999,"['Node.js', 'Data Structures']",[21 12],"['programList', 'backEndList']"
+1000,2000,"['Public Speaking', 'Political Science', 'Political Science', 'Human Rights']",[10 19 13 19],['politicalList']
