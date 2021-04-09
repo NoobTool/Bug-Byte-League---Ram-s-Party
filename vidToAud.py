@@ -10,9 +10,10 @@ import asyncio
 import json
 from nltk.corpus import stopwords
 nltk.download('stopwords')
-nltk.download('punkt')
 nltk.download('wordnet')
 from nltk.tokenize import word_tokenize
+from nltk import ngrams
+nltk.download('punkt')
 from nltk.stem import WordNetLemmatizer
 from fuzzywuzzy import fuzz,process
 
@@ -26,22 +27,23 @@ stop_words = set(stopwords.words('english'))
 stop_words.remove("for")
 stop_words.remove("while")
 stop_words.remove("do")
+stop_words.remove("that")
 d={}
 videosContent=[]
-# Command for converting video to audio
+examples=["instance","suppose that","imagine","pretend that"
+          ,"let say","such as",]
 
-
-
+conclusions=['conclude','recapitulate','sum up']
 
 #%% Video Processing Functions
 
 
-async def audToText(fileName):
+def audToText(fileName):
     
     with sr.AudioFile("/home/ramji/hk/{}".format(fileName.split(".")[0]+'.wav')) as source:
         audio_text = r.listen(source,phrase_time_limit=10000,timeout=5)
         try:
-            text = await r.recognize_google(audio_text).lower()
+            text = r.recognize_google(audio_text).lower()
             
         except Exception as e:
             text = str(e)
@@ -51,17 +53,16 @@ async def audToText(fileName):
             
 
 
-async def vidToAud(fileName,audioname):
+def vidToAud(fileName,audioname):
     cmd = 'ffmpeg -y -i "{}" \
         -ab 160k -ac 2 -ar 44100 -vn "/home/ramji/hk/{}.wav"'.format(fileName,audioname.split('.')[0])
     subprocess.call(cmd,shell=True)
-    text = await audToText(audioname)
-    print("Text is \n\n\n")
-    return await text
+    text = audToText(audioname)
+    return text
 
 #%% Natural Language Processing
 
-async def theProcessing(name,text):
+def theProcessing(name,text):
     
     d,vidContent={},{}
     keywords=[]
@@ -92,12 +93,33 @@ async def theProcessing(name,text):
     
     for word in d.keys():
         d[word]=d[word]/max_freq
-        if d[word]>0.20: keywords.append(word)
+        if d[word]>0.33: keywords.append(word)
     
     vidContent["problem_name"] = name
     vidContent["keywords"] = keywords
     
-    return vidContent
+    return vidContent,noPunc
+    
+def timeStampCheck(text):
+    exampleIndices=[]
+    concludeIndices=[]
+    text+=" for instance"
+    tokens = word_tokenize(text)
+    token2 = ngrams(text.split(),2)
+    for x in tokens:
+        if x in examples:
+            exampleIndices.append(tokens.index(x))
+        if x in conclusions:
+            concludeIndices.append(tokens.index(x))
+            
+    for x in token2:
+        if x in examples:
+            exampleIndices.append(token2.index(x))
+        if x in conclusions:
+            concludeIndices.append(token2.index(x))
+            
+    return exampleIndices,concludeIndices
+
     
     
 
@@ -105,7 +127,8 @@ async def theProcessing(name,text):
 
 searchResult ={}
 txt = vidToAud('pythonIntro.mp4','pythonIntro')
-# videosContent = asyncio.ensure_future(theProcessing('Ya',txt))
+videosContent,noPunc = theProcessing('Ya',txt)
+exampleIndices,concludeIndices = timeStampCheck(noPunc)
 
 # for content in videosContent:
 #     print(process.extract("layout",content["keywords"],limit=1,scorer=fuzz.token_set_ratio),"\n\n")
